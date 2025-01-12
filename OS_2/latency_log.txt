@@ -1,0 +1,3001 @@
+Sender timestamp: 184673.444517100
+Sent timestamp: 184673.444534200
+Calculated latency: 17100 ns
+Sender timestamp: 184673.445314500
+Sent timestamp: 184673.445315600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.445599500
+Sent timestamp: 184673.445617100
+Calculated latency: 17600 ns
+Sender timestamp: 184673.445843500
+Sent timestamp: 184673.445854000
+Calculated latency: 10500 ns
+Receiver timestamp: 184673.445651900
+Sender timestamp: 184673.446188400
+Sent timestamp: 184673.446196300
+Calculated latency: 7900 ns
+Sender timestamp: 184673.446540300
+Sent timestamp: 184673.446554100
+Calculated latency: 13800 ns
+Sender timestamp: 184673.447013700
+Sent timestamp: 184673.447019700
+Calculated latency: 6000 ns
+Sender timestamp: 184673.447243200
+Sent timestamp: 184673.447244400
+Calculated latency: 1200 ns
+Sender timestamp: 184673.447449900
+Sent timestamp: 184673.447458700
+Calculated latency: 8800 ns
+Sender timestamp: 184673.447675500
+Sent timestamp: 184673.447676500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.448037000
+Sent timestamp: 184673.448038700
+Calculated latency: 1700 ns
+Sender timestamp: 184673.448278100
+Sent timestamp: 184673.448279100
+Calculated latency: 1000 ns
+Sender timestamp: 184673.448554800
+Sent timestamp: 184673.448566800
+Calculated latency: 12000 ns
+Sender timestamp: 184673.448837700
+Sent timestamp: 184673.448838600
+Calculated latency: 900 ns
+Sender timestamp: 184673.449090700
+Sent timestamp: 184673.449091600
+Calculated latency: 900 ns
+Sender timestamp: 184673.449307600
+Sent timestamp: 184673.449308600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.449577000
+Sent timestamp: 184673.449593800
+Calculated latency: 16800 ns
+Sender timestamp: 184673.449791700
+Sent timestamp: 184673.449792500
+Calculated latency: 800 ns
+Sender timestamp: 184673.450014600
+Sent timestamp: 184673.450015800
+Calculated latency: 1200 ns
+Sender timestamp: 184673.450214700
+Sent timestamp: 184673.450215600
+Calculated latency: 900 ns
+Sender timestamp: 184673.450454900
+Sent timestamp: 184673.450468600
+Calculated latency: 13700 ns
+Sender timestamp: 184673.450761100
+Sent timestamp: 184673.450762400
+Calculated latency: 1300 ns
+Sender timestamp: 184673.451010000
+Sent timestamp: 184673.451011300
+Calculated latency: 1300 ns
+Sender timestamp: 184673.451267500
+Sent timestamp: 184673.451268300
+Calculated latency: 800 ns
+Sender timestamp: 184673.451538800
+Sent timestamp: 184673.451552200
+Calculated latency: 13400 ns
+Sender timestamp: 184673.451839800
+Sent timestamp: 184673.451840800
+Calculated latency: 1000 ns
+Sender timestamp: 184673.452097200
+Sent timestamp: 184673.452098200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.452315100
+Sent timestamp: 184673.452316000
+Calculated latency: 900 ns
+Sender timestamp: 184673.452582600
+Sent timestamp: 184673.452596900
+Calculated latency: 14300 ns
+Sender timestamp: 184673.452816500
+Sent timestamp: 184673.452817600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.453007900
+Sent timestamp: 184673.453008800
+Calculated latency: 900 ns
+Sender timestamp: 184673.453306700
+Sent timestamp: 184673.453308200
+Calculated latency: 1500 ns
+Sender timestamp: 184673.453561300
+Sent timestamp: 184673.453572400
+Calculated latency: 11100 ns
+Sender timestamp: 184673.453813300
+Sent timestamp: 184673.453814200
+Calculated latency: 900 ns
+Sender timestamp: 184673.453995700
+Sent timestamp: 184673.453996600
+Calculated latency: 900 ns
+Sender timestamp: 184673.454184700
+Sent timestamp: 184673.454185500
+Calculated latency: 800 ns
+Sender timestamp: 184673.454441200
+Sent timestamp: 184673.454456500
+Calculated latency: 15300 ns
+Sender timestamp: 184673.454632200
+Sent timestamp: 184673.454633100
+Calculated latency: 900 ns
+Sender timestamp: 184673.454855000
+Sent timestamp: 184673.454856000
+Calculated latency: 1000 ns
+Sender timestamp: 184673.455069400
+Sent timestamp: 184673.455070300
+Calculated latency: 900 ns
+Sender timestamp: 184673.455312100
+Sent timestamp: 184673.455319800
+Calculated latency: 7700 ns
+Sender timestamp: 184673.455567800
+Sent timestamp: 184673.455570300
+Calculated latency: 2500 ns
+Sender timestamp: 184673.455849500
+Sent timestamp: 184673.455850600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.456075200
+Sent timestamp: 184673.456076300
+Calculated latency: 1100 ns
+Sender timestamp: 184673.456239000
+Sent timestamp: 184673.456250300
+Calculated latency: 11300 ns
+Sender timestamp: 184673.456400600
+Sent timestamp: 184673.456401300
+Calculated latency: 700 ns
+Sender timestamp: 184673.456557500
+Sent timestamp: 184673.456558100
+Calculated latency: 600 ns
+Sender timestamp: 184673.456717100
+Sent timestamp: 184673.456717800
+Calculated latency: 700 ns
+Sender timestamp: 184673.456868000
+Sent timestamp: 184673.456868700
+Calculated latency: 700 ns
+Sender timestamp: 184673.457158700
+Sent timestamp: 184673.457168800
+Calculated latency: 10100 ns
+Sender timestamp: 184673.457455100
+Sent timestamp: 184673.457456100
+Calculated latency: 1000 ns
+Sender timestamp: 184673.457700000
+Sent timestamp: 184673.457700900
+Calculated latency: 900 ns
+Sender timestamp: 184673.457928100
+Sent timestamp: 184673.457929000
+Calculated latency: 900 ns
+Sender timestamp: 184673.458121900
+Sent timestamp: 184673.458129300
+Calculated latency: 7400 ns
+Sender timestamp: 184673.458394200
+Sent timestamp: 184673.458396700
+Calculated latency: 2500 ns
+Sender timestamp: 184673.458717200
+Sent timestamp: 184673.458718700
+Calculated latency: 1500 ns
+Sender timestamp: 184673.458962700
+Sent timestamp: 184673.458974900
+Calculated latency: 12200 ns
+Sender timestamp: 184673.459148100
+Sent timestamp: 184673.459148900
+Calculated latency: 800 ns
+Sender timestamp: 184673.459346400
+Sent timestamp: 184673.459347400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.459523100
+Sent timestamp: 184673.459523900
+Calculated latency: 800 ns
+Sender timestamp: 184673.459674600
+Sent timestamp: 184673.459675200
+Calculated latency: 600 ns
+Sender timestamp: 184673.459844500
+Sent timestamp: 184673.459851400
+Calculated latency: 6900 ns
+Sender timestamp: 184673.460087400
+Sent timestamp: 184673.460088500
+Calculated latency: 1100 ns
+Sender timestamp: 184673.460322500
+Sent timestamp: 184673.460323300
+Calculated latency: 800 ns
+Sender timestamp: 184673.460574400
+Sent timestamp: 184673.460578400
+Calculated latency: 4000 ns
+Sender timestamp: 184673.460856800
+Sent timestamp: 184673.460871500
+Calculated latency: 14700 ns
+Sender timestamp: 184673.461109900
+Sent timestamp: 184673.461111100
+Calculated latency: 1200 ns
+Sender timestamp: 184673.461357600
+Sent timestamp: 184673.461358600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.461586600
+Sent timestamp: 184673.461587300
+Calculated latency: 700 ns
+Sender timestamp: 184673.461774700
+Sent timestamp: 184673.461784600
+Calculated latency: 9900 ns
+Sender timestamp: 184673.462014300
+Sent timestamp: 184673.462015200
+Calculated latency: 900 ns
+Sender timestamp: 184673.462273900
+Sent timestamp: 184673.462274700
+Calculated latency: 800 ns
+Sender timestamp: 184673.462501900
+Sent timestamp: 184673.462502700
+Calculated latency: 800 ns
+Sender timestamp: 184673.462655500
+Sent timestamp: 184673.462662200
+Calculated latency: 6700 ns
+Sender timestamp: 184673.462840700
+Sent timestamp: 184673.462841600
+Calculated latency: 900 ns
+Sender timestamp: 184673.463011600
+Sent timestamp: 184673.463012300
+Calculated latency: 700 ns
+Sender timestamp: 184673.463212400
+Sent timestamp: 184673.463215100
+Calculated latency: 2700 ns
+Sender timestamp: 184673.463507200
+Sent timestamp: 184673.463514500
+Calculated latency: 7300 ns
+Sender timestamp: 184673.463676700
+Sent timestamp: 184673.463677500
+Calculated latency: 800 ns
+Sender timestamp: 184673.463913600
+Sent timestamp: 184673.463914800
+Calculated latency: 1200 ns
+Sender timestamp: 184673.464087300
+Sent timestamp: 184673.464088000
+Calculated latency: 700 ns
+Sender timestamp: 184673.464289400
+Sent timestamp: 184673.464290200
+Calculated latency: 800 ns
+Sender timestamp: 184673.464487300
+Sent timestamp: 184673.464492900
+Calculated latency: 5600 ns
+Sender timestamp: 184673.464787900
+Sent timestamp: 184673.464789000
+Calculated latency: 1100 ns
+Sender timestamp: 184673.464999200
+Sent timestamp: 184673.465000000
+Calculated latency: 800 ns
+Sender timestamp: 184673.465156600
+Sent timestamp: 184673.465157500
+Calculated latency: 900 ns
+Sender timestamp: 184673.465423300
+Sent timestamp: 184673.465434200
+Calculated latency: 10900 ns
+Sender timestamp: 184673.465713000
+Sent timestamp: 184673.465714400
+Calculated latency: 1400 ns
+Sender timestamp: 184673.465946000
+Sent timestamp: 184673.465946700
+Calculated latency: 700 ns
+Sender timestamp: 184673.466115900
+Sent timestamp: 184673.466116600
+Calculated latency: 700 ns
+Sender timestamp: 184673.466303100
+Sent timestamp: 184673.466309300
+Calculated latency: 6200 ns
+Sender timestamp: 184673.466465400
+Sent timestamp: 184673.466466200
+Calculated latency: 800 ns
+Sender timestamp: 184673.466625300
+Sent timestamp: 184673.466626000
+Calculated latency: 700 ns
+Sender timestamp: 184673.466826000
+Sent timestamp: 184673.466826700
+Calculated latency: 700 ns
+Sender timestamp: 184673.467076100
+Sent timestamp: 184673.467080100
+Calculated latency: 4000 ns
+Sender timestamp: 184673.467241100
+Sent timestamp: 184673.467254900
+Calculated latency: 13800 ns
+Sender timestamp: 184673.467427800
+Sent timestamp: 184673.467428500
+Calculated latency: 700 ns
+Sender timestamp: 184673.467617100
+Sent timestamp: 184673.467617900
+Calculated latency: 800 ns
+Sender timestamp: 184673.467799600
+Sent timestamp: 184673.467800500
+Calculated latency: 900 ns
+Sender timestamp: 184673.468034100
+Sent timestamp: 184673.468035000
+Calculated latency: 900 ns
+Sender timestamp: 184673.468294200
+Sent timestamp: 184673.468311300
+Calculated latency: 17100 ns
+Sender timestamp: 184673.468555100
+Sent timestamp: 184673.468555900
+Calculated latency: 800 ns
+Sender timestamp: 184673.468746500
+Sent timestamp: 184673.468747300
+Calculated latency: 800 ns
+Sender timestamp: 184673.468999400
+Sent timestamp: 184673.469000200
+Calculated latency: 800 ns
+Sender timestamp: 184673.469256800
+Sent timestamp: 184673.469270700
+Calculated latency: 13900 ns
+Sender timestamp: 184673.469522500
+Sent timestamp: 184673.469523200
+Calculated latency: 700 ns
+Sender timestamp: 184673.469701200
+Sent timestamp: 184673.469702000
+Calculated latency: 800 ns
+Sender timestamp: 184673.469903100
+Sent timestamp: 184673.469903900
+Calculated latency: 800 ns
+Sender timestamp: 184673.470066800
+Sent timestamp: 184673.470067500
+Calculated latency: 700 ns
+Sender timestamp: 184673.470289200
+Sent timestamp: 184673.470297100
+Calculated latency: 7900 ns
+Sender timestamp: 184673.470505400
+Sent timestamp: 184673.470506400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.470718100
+Sent timestamp: 184673.470719000
+Calculated latency: 900 ns
+Sender timestamp: 184673.470911200
+Sent timestamp: 184673.470912000
+Calculated latency: 800 ns
+Sender timestamp: 184673.471123400
+Sent timestamp: 184673.471124200
+Calculated latency: 800 ns
+Sender timestamp: 184673.471305600
+Sent timestamp: 184673.471318200
+Calculated latency: 12600 ns
+Sender timestamp: 184673.471529800
+Sent timestamp: 184673.471530700
+Calculated latency: 900 ns
+Sender timestamp: 184673.471734500
+Sent timestamp: 184673.471735300
+Calculated latency: 800 ns
+Sender timestamp: 184673.471918100
+Sent timestamp: 184673.471918900
+Calculated latency: 800 ns
+Sender timestamp: 184673.472120800
+Sent timestamp: 184673.472121500
+Calculated latency: 700 ns
+Sender timestamp: 184673.472310600
+Sent timestamp: 184673.472320700
+Calculated latency: 10100 ns
+Sender timestamp: 184673.472527500
+Sent timestamp: 184673.472528300
+Calculated latency: 800 ns
+Sender timestamp: 184673.472775700
+Sent timestamp: 184673.472776500
+Calculated latency: 800 ns
+Sender timestamp: 184673.472967400
+Sent timestamp: 184673.472968200
+Calculated latency: 800 ns
+Sender timestamp: 184673.473152300
+Sent timestamp: 184673.473158700
+Calculated latency: 6400 ns
+Sender timestamp: 184673.473353600
+Sent timestamp: 184673.473354300
+Calculated latency: 700 ns
+Sender timestamp: 184673.473690600
+Sent timestamp: 184673.473691600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.473893300
+Sent timestamp: 184673.473894100
+Calculated latency: 800 ns
+Sender timestamp: 184673.474109900
+Sent timestamp: 184673.474121000
+Calculated latency: 11100 ns
+Sender timestamp: 184673.474423400
+Sent timestamp: 184673.474427900
+Calculated latency: 4500 ns
+Sender timestamp: 184673.474663200
+Sent timestamp: 184673.474664200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.474892700
+Sent timestamp: 184673.474893700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.475184500
+Sent timestamp: 184673.475194200
+Calculated latency: 9700 ns
+Sender timestamp: 184673.475437800
+Sent timestamp: 184673.475438900
+Calculated latency: 1100 ns
+Sender timestamp: 184673.475620400
+Sent timestamp: 184673.475621400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.475956500
+Sent timestamp: 184673.475957600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.476186000
+Sent timestamp: 184673.476195600
+Calculated latency: 9600 ns
+Sender timestamp: 184673.476427000
+Sent timestamp: 184673.476427900
+Calculated latency: 900 ns
+Sender timestamp: 184673.476597600
+Sent timestamp: 184673.476598400
+Calculated latency: 800 ns
+Sender timestamp: 184673.476810400
+Sent timestamp: 184673.476811300
+Calculated latency: 900 ns
+Sender timestamp: 184673.477130100
+Sent timestamp: 184673.477155700
+Calculated latency: 25600 ns
+Sender timestamp: 184673.477401500
+Sent timestamp: 184673.477402400
+Calculated latency: 900 ns
+Sender timestamp: 184673.477598000
+Sent timestamp: 184673.477598700
+Calculated latency: 700 ns
+Sender timestamp: 184673.477814900
+Sent timestamp: 184673.477815800
+Calculated latency: 900 ns
+Sender timestamp: 184673.478014700
+Sent timestamp: 184673.478023600
+Calculated latency: 8900 ns
+Sender timestamp: 184673.478238000
+Sent timestamp: 184673.478239200
+Calculated latency: 1200 ns
+Sender timestamp: 184673.478449400
+Sent timestamp: 184673.478450100
+Calculated latency: 700 ns
+Sender timestamp: 184673.478631400
+Sent timestamp: 184673.478632100
+Calculated latency: 700 ns
+Sender timestamp: 184673.478816800
+Sent timestamp: 184673.478817500
+Calculated latency: 700 ns
+Sender timestamp: 184673.479011100
+Sent timestamp: 184673.479020500
+Calculated latency: 9400 ns
+Sender timestamp: 184673.479208800
+Sent timestamp: 184673.479210200
+Calculated latency: 1400 ns
+Sender timestamp: 184673.479513300
+Sent timestamp: 184673.479514900
+Calculated latency: 1600 ns
+Sender timestamp: 184673.479854900
+Sent timestamp: 184673.479869900
+Calculated latency: 15000 ns
+Sender timestamp: 184673.480102600
+Sent timestamp: 184673.480103500
+Calculated latency: 900 ns
+Sender timestamp: 184673.480333300
+Sent timestamp: 184673.480334300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.480569400
+Sent timestamp: 184673.480570300
+Calculated latency: 900 ns
+Sender timestamp: 184673.480792400
+Sent timestamp: 184673.480801900
+Calculated latency: 9500 ns
+Sender timestamp: 184673.481020800
+Sent timestamp: 184673.481021700
+Calculated latency: 900 ns
+Sender timestamp: 184673.481270200
+Sent timestamp: 184673.481271200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.481455500
+Sent timestamp: 184673.481456300
+Calculated latency: 800 ns
+Sender timestamp: 184673.481641600
+Sent timestamp: 184673.481648100
+Calculated latency: 6500 ns
+Sender timestamp: 184673.481832800
+Sent timestamp: 184673.481833600
+Calculated latency: 800 ns
+Sender timestamp: 184673.482053900
+Sent timestamp: 184673.482057000
+Calculated latency: 3100 ns
+Sender timestamp: 184673.482302100
+Sent timestamp: 184673.482302800
+Calculated latency: 700 ns
+Sender timestamp: 184673.482478400
+Sent timestamp: 184673.482490300
+Calculated latency: 11900 ns
+Sender timestamp: 184673.482659100
+Sent timestamp: 184673.482659900
+Calculated latency: 800 ns
+Sender timestamp: 184673.482822000
+Sent timestamp: 184673.482822800
+Calculated latency: 800 ns
+Sender timestamp: 184673.483001700
+Sent timestamp: 184673.483002500
+Calculated latency: 800 ns
+Sender timestamp: 184673.483205600
+Sent timestamp: 184673.483206400
+Calculated latency: 800 ns
+Sender timestamp: 184673.483477500
+Sent timestamp: 184673.483484200
+Calculated latency: 6700 ns
+Sender timestamp: 184673.483717800
+Sent timestamp: 184673.483718600
+Calculated latency: 800 ns
+Sender timestamp: 184673.483955700
+Sent timestamp: 184673.483957200
+Calculated latency: 1500 ns
+Sender timestamp: 184673.484179000
+Sent timestamp: 184673.484179800
+Calculated latency: 800 ns
+Sender timestamp: 184673.484365900
+Sent timestamp: 184673.484375600
+Calculated latency: 9700 ns
+Sender timestamp: 184673.484595900
+Sent timestamp: 184673.484596900
+Calculated latency: 1000 ns
+Sender timestamp: 184673.484882900
+Sent timestamp: 184673.484884100
+Calculated latency: 1200 ns
+Sender timestamp: 184673.485106100
+Sent timestamp: 184673.485107000
+Calculated latency: 900 ns
+Sender timestamp: 184673.485288900
+Sent timestamp: 184673.485296400
+Calculated latency: 7500 ns
+Sender timestamp: 184673.485462000
+Sent timestamp: 184673.485462800
+Calculated latency: 800 ns
+Sender timestamp: 184673.485652300
+Sent timestamp: 184673.485652900
+Calculated latency: 600 ns
+Sender timestamp: 184673.485845300
+Sent timestamp: 184673.485845900
+Calculated latency: 600 ns
+Sender timestamp: 184673.486086100
+Sent timestamp: 184673.486087100
+Calculated latency: 1000 ns
+Sender timestamp: 184673.486472600
+Sent timestamp: 184673.486482400
+Calculated latency: 9800 ns
+Sender timestamp: 184673.486724100
+Sent timestamp: 184673.486725000
+Calculated latency: 900 ns
+Sender timestamp: 184673.487020900
+Sent timestamp: 184673.487022300
+Calculated latency: 1400 ns
+Sender timestamp: 184673.487305800
+Sent timestamp: 184673.487306600
+Calculated latency: 800 ns
+Sender timestamp: 184673.487523500
+Sent timestamp: 184673.487532200
+Calculated latency: 8700 ns
+Sender timestamp: 184673.487746500
+Sent timestamp: 184673.487747400
+Calculated latency: 900 ns
+Sender timestamp: 184673.487945300
+Sent timestamp: 184673.487946000
+Calculated latency: 700 ns
+Sender timestamp: 184673.488124400
+Sent timestamp: 184673.488125200
+Calculated latency: 800 ns
+Sender timestamp: 184673.488302500
+Sent timestamp: 184673.488303400
+Calculated latency: 900 ns
+Sender timestamp: 184673.488476500
+Sent timestamp: 184673.488482200
+Calculated latency: 5700 ns
+Sender timestamp: 184673.488660700
+Sent timestamp: 184673.488661500
+Calculated latency: 800 ns
+Sender timestamp: 184673.488900500
+Sent timestamp: 184673.488901400
+Calculated latency: 900 ns
+Sender timestamp: 184673.489087200
+Sent timestamp: 184673.489088300
+Calculated latency: 1100 ns
+Sender timestamp: 184673.489360500
+Sent timestamp: 184673.489366800
+Calculated latency: 6300 ns
+Sender timestamp: 184673.489600000
+Sent timestamp: 184673.489600800
+Calculated latency: 800 ns
+Sender timestamp: 184673.489797200
+Sent timestamp: 184673.489797900
+Calculated latency: 700 ns
+Sender timestamp: 184673.490013400
+Sent timestamp: 184673.490014200
+Calculated latency: 800 ns
+Sender timestamp: 184673.490194400
+Sent timestamp: 184673.490195200
+Calculated latency: 800 ns
+Sender timestamp: 184673.490391200
+Sent timestamp: 184673.490397200
+Calculated latency: 6000 ns
+Sender timestamp: 184673.490562200
+Sent timestamp: 184673.490563000
+Calculated latency: 800 ns
+Sender timestamp: 184673.490811100
+Sent timestamp: 184673.490817100
+Calculated latency: 6000 ns
+Sender timestamp: 184673.491113000
+Sent timestamp: 184673.491114000
+Calculated latency: 1000 ns
+Sender timestamp: 184673.491322800
+Sent timestamp: 184673.491340600
+Calculated latency: 17800 ns
+Sender timestamp: 184673.491584600
+Sent timestamp: 184673.491585600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.491828400
+Sent timestamp: 184673.491829300
+Calculated latency: 900 ns
+Sender timestamp: 184673.492007300
+Sent timestamp: 184673.492008000
+Calculated latency: 700 ns
+Sender timestamp: 184673.492184100
+Sent timestamp: 184673.492191800
+Calculated latency: 7700 ns
+Sender timestamp: 184673.492371100
+Sent timestamp: 184673.492371900
+Calculated latency: 800 ns
+Sender timestamp: 184673.492643000
+Sent timestamp: 184673.492644400
+Calculated latency: 1400 ns
+Sender timestamp: 184673.492908200
+Sent timestamp: 184673.492909200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.493219500
+Sent timestamp: 184673.493230400
+Calculated latency: 10900 ns
+Sender timestamp: 184673.493495300
+Sent timestamp: 184673.493496300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.493732300
+Sent timestamp: 184673.493733200
+Calculated latency: 900 ns
+Sender timestamp: 184673.493964000
+Sent timestamp: 184673.493964900
+Calculated latency: 900 ns
+Sender timestamp: 184673.494208000
+Sent timestamp: 184673.494218400
+Calculated latency: 10400 ns
+Sender timestamp: 184673.494413600
+Sent timestamp: 184673.494414300
+Calculated latency: 700 ns
+Sender timestamp: 184673.494605100
+Sent timestamp: 184673.494606000
+Calculated latency: 900 ns
+Sender timestamp: 184673.494919100
+Sent timestamp: 184673.494923400
+Calculated latency: 4300 ns
+Sender timestamp: 184673.495159700
+Sent timestamp: 184673.495171500
+Calculated latency: 11800 ns
+Sender timestamp: 184673.495393900
+Sent timestamp: 184673.495394500
+Calculated latency: 600 ns
+Sender timestamp: 184673.495539100
+Sent timestamp: 184673.495539800
+Calculated latency: 700 ns
+Sender timestamp: 184673.495764000
+Sent timestamp: 184673.495764900
+Calculated latency: 900 ns
+Sender timestamp: 184673.495982900
+Sent timestamp: 184673.495983700
+Calculated latency: 800 ns
+Sender timestamp: 184673.496191900
+Sent timestamp: 184673.496198300
+Calculated latency: 6400 ns
+Sender timestamp: 184673.496405500
+Sent timestamp: 184673.496406300
+Calculated latency: 800 ns
+Sender timestamp: 184673.496596000
+Sent timestamp: 184673.496596700
+Calculated latency: 700 ns
+Sender timestamp: 184673.496766300
+Sent timestamp: 184673.496767200
+Calculated latency: 900 ns
+Sender timestamp: 184673.496943800
+Sent timestamp: 184673.496944500
+Calculated latency: 700 ns
+Sender timestamp: 184673.497094900
+Sent timestamp: 184673.497100100
+Calculated latency: 5200 ns
+Sender timestamp: 184673.497292100
+Sent timestamp: 184673.497293100
+Calculated latency: 1000 ns
+Sender timestamp: 184673.497496000
+Sent timestamp: 184673.497496900
+Calculated latency: 900 ns
+Sender timestamp: 184673.497651100
+Sent timestamp: 184673.497651900
+Calculated latency: 800 ns
+Sender timestamp: 184673.497849400
+Sent timestamp: 184673.497850100
+Calculated latency: 700 ns
+Sender timestamp: 184673.498022900
+Sent timestamp: 184673.498029300
+Calculated latency: 6400 ns
+Sender timestamp: 184673.498214400
+Sent timestamp: 184673.498215200
+Calculated latency: 800 ns
+Sender timestamp: 184673.498387000
+Sent timestamp: 184673.498387800
+Calculated latency: 800 ns
+Sender timestamp: 184673.498618600
+Sent timestamp: 184673.498619400
+Calculated latency: 800 ns
+Sender timestamp: 184673.498794100
+Sent timestamp: 184673.498794900
+Calculated latency: 800 ns
+Sender timestamp: 184673.499039400
+Sent timestamp: 184673.499045700
+Calculated latency: 6300 ns
+Sender timestamp: 184673.499250000
+Sent timestamp: 184673.499250800
+Calculated latency: 800 ns
+Sender timestamp: 184673.499421500
+Sent timestamp: 184673.499422200
+Calculated latency: 700 ns
+Sender timestamp: 184673.499577500
+Sent timestamp: 184673.499578300
+Calculated latency: 800 ns
+Sender timestamp: 184673.499909100
+Sent timestamp: 184673.499917700
+Calculated latency: 8600 ns
+Sender timestamp: 184673.500168400
+Sent timestamp: 184673.500169500
+Calculated latency: 1100 ns
+Sender timestamp: 184673.500549600
+Sent timestamp: 184673.500553800
+Calculated latency: 4200 ns
+Sender timestamp: 184673.500851500
+Sent timestamp: 184673.500868800
+Calculated latency: 17300 ns
+Sender timestamp: 184673.501217600
+Sent timestamp: 184673.501218700
+Calculated latency: 1100 ns
+Sender timestamp: 184673.501493700
+Sent timestamp: 184673.501494700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.501769600
+Sent timestamp: 184673.501780000
+Calculated latency: 10400 ns
+Sender timestamp: 184673.502051300
+Sent timestamp: 184673.502052200
+Calculated latency: 900 ns
+Sender timestamp: 184673.502297500
+Sent timestamp: 184673.502298500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.502546400
+Sent timestamp: 184673.502547100
+Calculated latency: 700 ns
+Sender timestamp: 184673.502731100
+Sent timestamp: 184673.502739500
+Calculated latency: 8400 ns
+Sender timestamp: 184673.502942600
+Sent timestamp: 184673.502949200
+Calculated latency: 6600 ns
+Sender timestamp: 184673.503193700
+Sent timestamp: 184673.503197200
+Calculated latency: 3500 ns
+Sender timestamp: 184673.503420500
+Sent timestamp: 184673.503421300
+Calculated latency: 800 ns
+Sender timestamp: 184673.503626600
+Sent timestamp: 184673.503638100
+Calculated latency: 11500 ns
+Sender timestamp: 184673.503822000
+Sent timestamp: 184673.503822800
+Calculated latency: 800 ns
+Sender timestamp: 184673.504046900
+Sent timestamp: 184673.504048100
+Calculated latency: 1200 ns
+Sender timestamp: 184673.504333300
+Sent timestamp: 184673.504334300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.504568200
+Sent timestamp: 184673.504579100
+Calculated latency: 10900 ns
+Sender timestamp: 184673.504787000
+Sent timestamp: 184673.504787800
+Calculated latency: 800 ns
+Sender timestamp: 184673.504962700
+Sent timestamp: 184673.504963500
+Calculated latency: 800 ns
+Sender timestamp: 184673.505146800
+Sent timestamp: 184673.505147400
+Calculated latency: 600 ns
+Sender timestamp: 184673.505348100
+Sent timestamp: 184673.505348800
+Calculated latency: 700 ns
+Sender timestamp: 184673.505516900
+Sent timestamp: 184673.505523100
+Calculated latency: 6200 ns
+Sender timestamp: 184673.505701600
+Sent timestamp: 184673.505702200
+Calculated latency: 600 ns
+Sender timestamp: 184673.505940600
+Sent timestamp: 184673.505941600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.506227900
+Sent timestamp: 184673.506228900
+Calculated latency: 1000 ns
+Sender timestamp: 184673.506506700
+Sent timestamp: 184673.506517500
+Calculated latency: 10800 ns
+Sender timestamp: 184673.506727500
+Sent timestamp: 184673.506728400
+Calculated latency: 900 ns
+Sender timestamp: 184673.506922800
+Sent timestamp: 184673.506923700
+Calculated latency: 900 ns
+Sender timestamp: 184673.507135300
+Sent timestamp: 184673.507136200
+Calculated latency: 900 ns
+Sender timestamp: 184673.507345300
+Sent timestamp: 184673.507354800
+Calculated latency: 9500 ns
+Sender timestamp: 184673.507636100
+Sent timestamp: 184673.507640900
+Calculated latency: 4800 ns
+Sender timestamp: 184673.508051200
+Sent timestamp: 184673.508052400
+Calculated latency: 1200 ns
+Sender timestamp: 184673.508317400
+Sent timestamp: 184673.508333200
+Calculated latency: 15800 ns
+Sender timestamp: 184673.508612600
+Sent timestamp: 184673.508613700
+Calculated latency: 1100 ns
+Sender timestamp: 184673.508902000
+Sent timestamp: 184673.508903200
+Calculated latency: 1200 ns
+Sender timestamp: 184673.509116900
+Sent timestamp: 184673.509118000
+Calculated latency: 1100 ns
+Sender timestamp: 184673.509326200
+Sent timestamp: 184673.509336500
+Calculated latency: 10300 ns
+Sender timestamp: 184673.509487500
+Sent timestamp: 184673.509488200
+Calculated latency: 700 ns
+Sender timestamp: 184673.509665100
+Sent timestamp: 184673.509665700
+Calculated latency: 600 ns
+Sender timestamp: 184673.509910500
+Sent timestamp: 184673.509911400
+Calculated latency: 900 ns
+Sender timestamp: 184673.510089800
+Sent timestamp: 184673.510090500
+Calculated latency: 700 ns
+Sender timestamp: 184673.510333700
+Sent timestamp: 184673.510346100
+Calculated latency: 12400 ns
+Sender timestamp: 184673.510551300
+Sent timestamp: 184673.510552100
+Calculated latency: 800 ns
+Sender timestamp: 184673.510744100
+Sent timestamp: 184673.510744800
+Calculated latency: 700 ns
+Sender timestamp: 184673.510985400
+Sent timestamp: 184673.510988800
+Calculated latency: 3400 ns
+Sender timestamp: 184673.511211400
+Sent timestamp: 184673.511222700
+Calculated latency: 11300 ns
+Sender timestamp: 184673.511437900
+Sent timestamp: 184673.511438700
+Calculated latency: 800 ns
+Sender timestamp: 184673.511603700
+Sent timestamp: 184673.511604500
+Calculated latency: 800 ns
+Sender timestamp: 184673.511811000
+Sent timestamp: 184673.511811900
+Calculated latency: 900 ns
+Sender timestamp: 184673.512000300
+Sent timestamp: 184673.512001000
+Calculated latency: 700 ns
+Sender timestamp: 184673.512357700
+Sent timestamp: 184673.512368500
+Calculated latency: 10800 ns
+Sender timestamp: 184673.512687400
+Sent timestamp: 184673.512688400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.512960700
+Sent timestamp: 184673.512961600
+Calculated latency: 900 ns
+Sender timestamp: 184673.513194900
+Sent timestamp: 184673.513202900
+Calculated latency: 8000 ns
+Sender timestamp: 184673.513599500
+Sent timestamp: 184673.513600600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.513968900
+Sent timestamp: 184673.513971200
+Calculated latency: 2300 ns
+Sender timestamp: 184673.514208300
+Sent timestamp: 184673.514219700
+Calculated latency: 11400 ns
+Sender timestamp: 184673.514418200
+Sent timestamp: 184673.514419200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.514604700
+Sent timestamp: 184673.514605600
+Calculated latency: 900 ns
+Sender timestamp: 184673.514798200
+Sent timestamp: 184673.514799200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.514974800
+Sent timestamp: 184673.514975800
+Calculated latency: 1000 ns
+Sender timestamp: 184673.515262900
+Sent timestamp: 184673.515276800
+Calculated latency: 13900 ns
+Sender timestamp: 184673.515476300
+Sent timestamp: 184673.515477200
+Calculated latency: 900 ns
+Sender timestamp: 184673.515703900
+Sent timestamp: 184673.515704800
+Calculated latency: 900 ns
+Sender timestamp: 184673.515963200
+Sent timestamp: 184673.515964400
+Calculated latency: 1200 ns
+Sender timestamp: 184673.516265800
+Sent timestamp: 184673.516278400
+Calculated latency: 12600 ns
+Sender timestamp: 184673.516455200
+Sent timestamp: 184673.516456000
+Calculated latency: 800 ns
+Sender timestamp: 184673.516670900
+Sent timestamp: 184673.516671600
+Calculated latency: 700 ns
+Sender timestamp: 184673.516887800
+Sent timestamp: 184673.516888700
+Calculated latency: 900 ns
+Sender timestamp: 184673.517074000
+Sent timestamp: 184673.517074900
+Calculated latency: 900 ns
+Sender timestamp: 184673.517320900
+Sent timestamp: 184673.517329000
+Calculated latency: 8100 ns
+Sender timestamp: 184673.517594300
+Sent timestamp: 184673.517597300
+Calculated latency: 3000 ns
+Sender timestamp: 184673.517880000
+Sent timestamp: 184673.517881300
+Calculated latency: 1300 ns
+Sender timestamp: 184673.518144800
+Sent timestamp: 184673.518145700
+Calculated latency: 900 ns
+Sender timestamp: 184673.518410800
+Sent timestamp: 184673.518427500
+Calculated latency: 16700 ns
+Sender timestamp: 184673.518696200
+Sent timestamp: 184673.518697100
+Calculated latency: 900 ns
+Sender timestamp: 184673.518918700
+Sent timestamp: 184673.518919500
+Calculated latency: 800 ns
+Sender timestamp: 184673.519127800
+Sent timestamp: 184673.519129000
+Calculated latency: 1200 ns
+Sender timestamp: 184673.519328400
+Sent timestamp: 184673.519337600
+Calculated latency: 9200 ns
+Sender timestamp: 184673.519500800
+Sent timestamp: 184673.519501600
+Calculated latency: 800 ns
+Sender timestamp: 184673.519639500
+Sent timestamp: 184673.519640200
+Calculated latency: 700 ns
+Sender timestamp: 184673.519856200
+Sent timestamp: 184673.519857000
+Calculated latency: 800 ns
+Sender timestamp: 184673.520022200
+Sent timestamp: 184673.520022900
+Calculated latency: 700 ns
+Sender timestamp: 184673.520198500
+Sent timestamp: 184673.520205800
+Calculated latency: 7300 ns
+Sender timestamp: 184673.520383000
+Sent timestamp: 184673.520383800
+Calculated latency: 800 ns
+Sender timestamp: 184673.520599200
+Sent timestamp: 184673.520600600
+Calculated latency: 1400 ns
+Sender timestamp: 184673.520838700
+Sent timestamp: 184673.520839400
+Calculated latency: 700 ns
+Sender timestamp: 184673.521147900
+Sent timestamp: 184673.521162700
+Calculated latency: 14800 ns
+Sender timestamp: 184673.521371900
+Sent timestamp: 184673.521372700
+Calculated latency: 800 ns
+Sender timestamp: 184673.521612000
+Sent timestamp: 184673.521612800
+Calculated latency: 800 ns
+Sender timestamp: 184673.521916000
+Sent timestamp: 184673.521916900
+Calculated latency: 900 ns
+Sender timestamp: 184673.522121500
+Sent timestamp: 184673.522127300
+Calculated latency: 5800 ns
+Sender timestamp: 184673.522298400
+Sent timestamp: 184673.522299200
+Calculated latency: 800 ns
+Sender timestamp: 184673.522494200
+Sent timestamp: 184673.522495100
+Calculated latency: 900 ns
+Sender timestamp: 184673.522721600
+Sent timestamp: 184673.522724900
+Calculated latency: 3300 ns
+Sender timestamp: 184673.522936600
+Sent timestamp: 184673.522937300
+Calculated latency: 700 ns
+Sender timestamp: 184673.523154900
+Sent timestamp: 184673.523167900
+Calculated latency: 13000 ns
+Sender timestamp: 184673.523394700
+Sent timestamp: 184673.523395700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.523657300
+Sent timestamp: 184673.523658600
+Calculated latency: 1300 ns
+Sender timestamp: 184673.523854800
+Sent timestamp: 184673.523855600
+Calculated latency: 800 ns
+Sender timestamp: 184673.524020200
+Sent timestamp: 184673.524028600
+Calculated latency: 8400 ns
+Sender timestamp: 184673.524269700
+Sent timestamp: 184673.524270800
+Calculated latency: 1100 ns
+Sender timestamp: 184673.524480400
+Sent timestamp: 184673.524481200
+Calculated latency: 800 ns
+Sender timestamp: 184673.524684500
+Sent timestamp: 184673.524685800
+Calculated latency: 1300 ns
+Sender timestamp: 184673.524906500
+Sent timestamp: 184673.524912900
+Calculated latency: 6400 ns
+Sender timestamp: 184673.525138600
+Sent timestamp: 184673.525139700
+Calculated latency: 1100 ns
+Sender timestamp: 184673.525368400
+Sent timestamp: 184673.525369200
+Calculated latency: 800 ns
+Sender timestamp: 184673.525581300
+Sent timestamp: 184673.525582200
+Calculated latency: 900 ns
+Sender timestamp: 184673.525801400
+Sent timestamp: 184673.525811400
+Calculated latency: 10000 ns
+Sender timestamp: 184673.525996900
+Sent timestamp: 184673.525997600
+Calculated latency: 700 ns
+Sender timestamp: 184673.526217200
+Sent timestamp: 184673.526218500
+Calculated latency: 1300 ns
+Sender timestamp: 184673.526430000
+Sent timestamp: 184673.526430800
+Calculated latency: 800 ns
+Sender timestamp: 184673.526619000
+Sent timestamp: 184673.526619700
+Calculated latency: 700 ns
+Sender timestamp: 184673.526810500
+Sent timestamp: 184673.526818900
+Calculated latency: 8400 ns
+Sender timestamp: 184673.526964000
+Sent timestamp: 184673.526964600
+Calculated latency: 600 ns
+Sender timestamp: 184673.527211400
+Sent timestamp: 184673.527212300
+Calculated latency: 900 ns
+Sender timestamp: 184673.527414600
+Sent timestamp: 184673.527415300
+Calculated latency: 700 ns
+Sender timestamp: 184673.527683100
+Sent timestamp: 184673.527692000
+Calculated latency: 8900 ns
+Sender timestamp: 184673.527972400
+Sent timestamp: 184673.527973500
+Calculated latency: 1100 ns
+Sender timestamp: 184673.528335500
+Sent timestamp: 184673.528338200
+Calculated latency: 2700 ns
+Sender timestamp: 184673.528551400
+Sent timestamp: 184673.528566800
+Calculated latency: 15400 ns
+Sender timestamp: 184673.528790500
+Sent timestamp: 184673.528791500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.528991100
+Sent timestamp: 184673.528992100
+Calculated latency: 1000 ns
+Sender timestamp: 184673.529193500
+Sent timestamp: 184673.529194400
+Calculated latency: 900 ns
+Sender timestamp: 184673.529406800
+Sent timestamp: 184673.529414000
+Calculated latency: 7200 ns
+Sender timestamp: 184673.529574800
+Sent timestamp: 184673.529575700
+Calculated latency: 900 ns
+Sender timestamp: 184673.529748800
+Sent timestamp: 184673.529749600
+Calculated latency: 800 ns
+Sender timestamp: 184673.529911300
+Sent timestamp: 184673.529912000
+Calculated latency: 700 ns
+Sender timestamp: 184673.530080500
+Sent timestamp: 184673.530081200
+Calculated latency: 700 ns
+Sender timestamp: 184673.530275600
+Sent timestamp: 184673.530281700
+Calculated latency: 6100 ns
+Sender timestamp: 184673.530453800
+Sent timestamp: 184673.530454800
+Calculated latency: 1000 ns
+Sender timestamp: 184673.530663000
+Sent timestamp: 184673.530663900
+Calculated latency: 900 ns
+Sender timestamp: 184673.530915300
+Sent timestamp: 184673.530916200
+Calculated latency: 900 ns
+Sender timestamp: 184673.531104800
+Sent timestamp: 184673.531105600
+Calculated latency: 800 ns
+Sender timestamp: 184673.531289400
+Sent timestamp: 184673.531295500
+Calculated latency: 6100 ns
+Sender timestamp: 184673.531488800
+Sent timestamp: 184673.531489700
+Calculated latency: 900 ns
+Sender timestamp: 184673.531690200
+Sent timestamp: 184673.531691100
+Calculated latency: 900 ns
+Sender timestamp: 184673.531899000
+Sent timestamp: 184673.531899900
+Calculated latency: 900 ns
+Sender timestamp: 184673.532104800
+Sent timestamp: 184673.532105600
+Calculated latency: 800 ns
+Sender timestamp: 184673.532311700
+Sent timestamp: 184673.532317400
+Calculated latency: 5700 ns
+Sender timestamp: 184673.532533300
+Sent timestamp: 184673.532534200
+Calculated latency: 900 ns
+Sender timestamp: 184673.532772300
+Sent timestamp: 184673.532773200
+Calculated latency: 900 ns
+Sender timestamp: 184673.532970300
+Sent timestamp: 184673.532971000
+Calculated latency: 700 ns
+Sender timestamp: 184673.533132400
+Sent timestamp: 184673.533133200
+Calculated latency: 800 ns
+Sender timestamp: 184673.533312300
+Sent timestamp: 184673.533319700
+Calculated latency: 7400 ns
+Sender timestamp: 184673.533494400
+Sent timestamp: 184673.533495100
+Calculated latency: 700 ns
+Sender timestamp: 184673.533648300
+Sent timestamp: 184673.533649100
+Calculated latency: 800 ns
+Sender timestamp: 184673.533849500
+Sent timestamp: 184673.533850400
+Calculated latency: 900 ns
+Sender timestamp: 184673.534034800
+Sent timestamp: 184673.534035600
+Calculated latency: 800 ns
+Sender timestamp: 184673.534334200
+Sent timestamp: 184673.534351800
+Calculated latency: 17600 ns
+Sender timestamp: 184673.534558900
+Sent timestamp: 184673.534559600
+Calculated latency: 700 ns
+Sender timestamp: 184673.534786600
+Sent timestamp: 184673.534787600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.535077100
+Sent timestamp: 184673.535079000
+Calculated latency: 1900 ns
+Sender timestamp: 184673.535373400
+Sent timestamp: 184673.535385900
+Calculated latency: 12500 ns
+Sender timestamp: 184673.535635300
+Sent timestamp: 184673.535636300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.535903600
+Sent timestamp: 184673.535904500
+Calculated latency: 900 ns
+Sender timestamp: 184673.536136900
+Sent timestamp: 184673.536137800
+Calculated latency: 900 ns
+Sender timestamp: 184673.536383500
+Sent timestamp: 184673.536391500
+Calculated latency: 8000 ns
+Sender timestamp: 184673.536642500
+Sent timestamp: 184673.536644500
+Calculated latency: 2000 ns
+Sender timestamp: 184673.536945600
+Sent timestamp: 184673.536946600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.537222300
+Sent timestamp: 184673.537235300
+Calculated latency: 13000 ns
+Sender timestamp: 184673.537480600
+Sent timestamp: 184673.537481400
+Calculated latency: 800 ns
+Sender timestamp: 184673.537670300
+Sent timestamp: 184673.537671100
+Calculated latency: 800 ns
+Sender timestamp: 184673.537847600
+Sent timestamp: 184673.537848300
+Calculated latency: 700 ns
+Sender timestamp: 184673.538060000
+Sent timestamp: 184673.538068800
+Calculated latency: 8800 ns
+Sender timestamp: 184673.538284000
+Sent timestamp: 184673.538284900
+Calculated latency: 900 ns
+Sender timestamp: 184673.538519900
+Sent timestamp: 184673.538520800
+Calculated latency: 900 ns
+Sender timestamp: 184673.538726900
+Sent timestamp: 184673.538727800
+Calculated latency: 900 ns
+Sender timestamp: 184673.538899900
+Sent timestamp: 184673.538908200
+Calculated latency: 8300 ns
+Sender timestamp: 184673.539073800
+Sent timestamp: 184673.539074500
+Calculated latency: 700 ns
+Sender timestamp: 184673.539267100
+Sent timestamp: 184673.539267900
+Calculated latency: 800 ns
+Sender timestamp: 184673.539466100
+Sent timestamp: 184673.539466900
+Calculated latency: 800 ns
+Sender timestamp: 184673.539634000
+Sent timestamp: 184673.539634700
+Calculated latency: 700 ns
+Sender timestamp: 184673.539810600
+Sent timestamp: 184673.539819100
+Calculated latency: 8500 ns
+Sender timestamp: 184673.540031200
+Sent timestamp: 184673.540031900
+Calculated latency: 700 ns
+Sender timestamp: 184673.540311200
+Sent timestamp: 184673.540315100
+Calculated latency: 3900 ns
+Sender timestamp: 184673.540553100
+Sent timestamp: 184673.540553900
+Calculated latency: 800 ns
+Sender timestamp: 184673.540788300
+Sent timestamp: 184673.540798100
+Calculated latency: 9800 ns
+Sender timestamp: 184673.540987600
+Sent timestamp: 184673.540988400
+Calculated latency: 800 ns
+Sender timestamp: 184673.541224900
+Sent timestamp: 184673.541225600
+Calculated latency: 700 ns
+Sender timestamp: 184673.541458000
+Sent timestamp: 184673.541459100
+Calculated latency: 1100 ns
+Sender timestamp: 184673.541664400
+Sent timestamp: 184673.541678200
+Calculated latency: 13800 ns
+Sender timestamp: 184673.541932700
+Sent timestamp: 184673.541933700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.542129500
+Sent timestamp: 184673.542130500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.542432800
+Sent timestamp: 184673.542434500
+Calculated latency: 1700 ns
+Sender timestamp: 184673.542662600
+Sent timestamp: 184673.542676000
+Calculated latency: 13400 ns
+Sender timestamp: 184673.542903600
+Sent timestamp: 184673.542904500
+Calculated latency: 900 ns
+Sender timestamp: 184673.543062000
+Sent timestamp: 184673.543062800
+Calculated latency: 800 ns
+Sender timestamp: 184673.543211200
+Sent timestamp: 184673.543212000
+Calculated latency: 800 ns
+Sender timestamp: 184673.543360000
+Sent timestamp: 184673.543360700
+Calculated latency: 700 ns
+Sender timestamp: 184673.543508600
+Sent timestamp: 184673.543517100
+Calculated latency: 8500 ns
+Sender timestamp: 184673.543758900
+Sent timestamp: 184673.543759800
+Calculated latency: 900 ns
+Sender timestamp: 184673.543934800
+Sent timestamp: 184673.543935600
+Calculated latency: 800 ns
+Sender timestamp: 184673.544080500
+Sent timestamp: 184673.544081200
+Calculated latency: 700 ns
+Sender timestamp: 184673.544270400
+Sent timestamp: 184673.544271200
+Calculated latency: 800 ns
+Sender timestamp: 184673.544419300
+Sent timestamp: 184673.544424700
+Calculated latency: 5400 ns
+Sender timestamp: 184673.544592200
+Sent timestamp: 184673.544593000
+Calculated latency: 800 ns
+Sender timestamp: 184673.544732500
+Sent timestamp: 184673.544733300
+Calculated latency: 800 ns
+Sender timestamp: 184673.544973100
+Sent timestamp: 184673.544973600
+Calculated latency: 500 ns
+Sender timestamp: 184673.545184400
+Sent timestamp: 184673.545185200
+Calculated latency: 800 ns
+Sender timestamp: 184673.545347300
+Sent timestamp: 184673.545354000
+Calculated latency: 6700 ns
+Sender timestamp: 184673.545575600
+Sent timestamp: 184673.545576500
+Calculated latency: 900 ns
+Sender timestamp: 184673.545755100
+Sent timestamp: 184673.545755900
+Calculated latency: 800 ns
+Sender timestamp: 184673.545900200
+Sent timestamp: 184673.545900900
+Calculated latency: 700 ns
+Sender timestamp: 184673.546069800
+Sent timestamp: 184673.546070500
+Calculated latency: 700 ns
+Sender timestamp: 184673.546242000
+Sent timestamp: 184673.546247400
+Calculated latency: 5400 ns
+Sender timestamp: 184673.546392700
+Sent timestamp: 184673.546393500
+Calculated latency: 800 ns
+Sender timestamp: 184673.546551100
+Sent timestamp: 184673.546551800
+Calculated latency: 700 ns
+Sender timestamp: 184673.546709900
+Sent timestamp: 184673.546710700
+Calculated latency: 800 ns
+Sender timestamp: 184673.546886200
+Sent timestamp: 184673.546887000
+Calculated latency: 800 ns
+Sender timestamp: 184673.547025700
+Sent timestamp: 184673.547026400
+Calculated latency: 700 ns
+Sender timestamp: 184673.547214800
+Sent timestamp: 184673.547220600
+Calculated latency: 5800 ns
+Sender timestamp: 184673.547414000
+Sent timestamp: 184673.547415000
+Calculated latency: 1000 ns
+Sender timestamp: 184673.547644800
+Sent timestamp: 184673.547645700
+Calculated latency: 900 ns
+Sender timestamp: 184673.547844000
+Sent timestamp: 184673.547844700
+Calculated latency: 700 ns
+Sender timestamp: 184673.548013500
+Sent timestamp: 184673.548014200
+Calculated latency: 700 ns
+Sender timestamp: 184673.548186000
+Sent timestamp: 184673.548191900
+Calculated latency: 5900 ns
+Sender timestamp: 184673.548361500
+Sent timestamp: 184673.548362300
+Calculated latency: 800 ns
+Sender timestamp: 184673.548535100
+Sent timestamp: 184673.548535900
+Calculated latency: 800 ns
+Sender timestamp: 184673.548827600
+Sent timestamp: 184673.548828800
+Calculated latency: 1200 ns
+Sender timestamp: 184673.549176500
+Sent timestamp: 184673.549202700
+Calculated latency: 26200 ns
+Sender timestamp: 184673.549473500
+Sent timestamp: 184673.549474500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.549707900
+Sent timestamp: 184673.549708800
+Calculated latency: 900 ns
+Sender timestamp: 184673.549898600
+Sent timestamp: 184673.549899500
+Calculated latency: 900 ns
+Sender timestamp: 184673.550069600
+Sent timestamp: 184673.550076400
+Calculated latency: 6800 ns
+Sender timestamp: 184673.550245900
+Sent timestamp: 184673.550246700
+Calculated latency: 800 ns
+Sender timestamp: 184673.550454000
+Sent timestamp: 184673.550454800
+Calculated latency: 800 ns
+Sender timestamp: 184673.550649500
+Sent timestamp: 184673.550650300
+Calculated latency: 800 ns
+Sender timestamp: 184673.550862500
+Sent timestamp: 184673.550863400
+Calculated latency: 900 ns
+Sender timestamp: 184673.551117100
+Sent timestamp: 184673.551134800
+Calculated latency: 17700 ns
+Sender timestamp: 184673.551348600
+Sent timestamp: 184673.551349500
+Calculated latency: 900 ns
+Sender timestamp: 184673.551573900
+Sent timestamp: 184673.551574900
+Calculated latency: 1000 ns
+Sender timestamp: 184673.551760700
+Sent timestamp: 184673.551761700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.552054000
+Sent timestamp: 184673.552065500
+Calculated latency: 11500 ns
+Sender timestamp: 184673.552243200
+Sent timestamp: 184673.552244000
+Calculated latency: 800 ns
+Sender timestamp: 184673.552395100
+Sent timestamp: 184673.552395900
+Calculated latency: 800 ns
+Sender timestamp: 184673.552684400
+Sent timestamp: 184673.552686100
+Calculated latency: 1700 ns
+Sender timestamp: 184673.552885800
+Sent timestamp: 184673.552886700
+Calculated latency: 900 ns
+Sender timestamp: 184673.553140900
+Sent timestamp: 184673.553152400
+Calculated latency: 11500 ns
+Sender timestamp: 184673.553401800
+Sent timestamp: 184673.553402500
+Calculated latency: 700 ns
+Sender timestamp: 184673.553610800
+Sent timestamp: 184673.553612700
+Calculated latency: 1900 ns
+Sender timestamp: 184673.553827700
+Sent timestamp: 184673.553828400
+Calculated latency: 700 ns
+Sender timestamp: 184673.554047600
+Sent timestamp: 184673.554056700
+Calculated latency: 9100 ns
+Sender timestamp: 184673.554306000
+Sent timestamp: 184673.554306800
+Calculated latency: 800 ns
+Sender timestamp: 184673.554527200
+Sent timestamp: 184673.554528000
+Calculated latency: 800 ns
+Sender timestamp: 184673.554692300
+Sent timestamp: 184673.554693000
+Calculated latency: 700 ns
+Sender timestamp: 184673.554888900
+Sent timestamp: 184673.554895400
+Calculated latency: 6500 ns
+Sender timestamp: 184673.555175400
+Sent timestamp: 184673.555176200
+Calculated latency: 800 ns
+Sender timestamp: 184673.555478100
+Sent timestamp: 184673.555480700
+Calculated latency: 2600 ns
+Sender timestamp: 184673.555706500
+Sent timestamp: 184673.555707400
+Calculated latency: 900 ns
+Sender timestamp: 184673.555881100
+Sent timestamp: 184673.555892000
+Calculated latency: 10900 ns
+Sender timestamp: 184673.556158700
+Sent timestamp: 184673.556160100
+Calculated latency: 1400 ns
+Sender timestamp: 184673.556419700
+Sent timestamp: 184673.556420600
+Calculated latency: 900 ns
+Sender timestamp: 184673.556623700
+Sent timestamp: 184673.556624500
+Calculated latency: 800 ns
+Sender timestamp: 184673.556895900
+Sent timestamp: 184673.556904900
+Calculated latency: 9000 ns
+Sender timestamp: 184673.557086400
+Sent timestamp: 184673.557087200
+Calculated latency: 800 ns
+Sender timestamp: 184673.557258500
+Sent timestamp: 184673.557259400
+Calculated latency: 900 ns
+Sender timestamp: 184673.557408100
+Sent timestamp: 184673.557408800
+Calculated latency: 700 ns
+Sender timestamp: 184673.557585600
+Sent timestamp: 184673.557586400
+Calculated latency: 800 ns
+Sender timestamp: 184673.557801900
+Sent timestamp: 184673.557809600
+Calculated latency: 7700 ns
+Sender timestamp: 184673.558031700
+Sent timestamp: 184673.558032700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.558219900
+Sent timestamp: 184673.558220800
+Calculated latency: 900 ns
+Sender timestamp: 184673.558402100
+Sent timestamp: 184673.558402900
+Calculated latency: 800 ns
+Sender timestamp: 184673.558592600
+Sent timestamp: 184673.558593300
+Calculated latency: 700 ns
+Sender timestamp: 184673.558877000
+Sent timestamp: 184673.558885400
+Calculated latency: 8400 ns
+Sender timestamp: 184673.559102100
+Sent timestamp: 184673.559125000
+Calculated latency: 22900 ns
+Sender timestamp: 184673.559292700
+Sent timestamp: 184673.559293600
+Calculated latency: 900 ns
+Sender timestamp: 184673.559594500
+Sent timestamp: 184673.559597300
+Calculated latency: 2800 ns
+Sender timestamp: 184673.559854300
+Sent timestamp: 184673.559866300
+Calculated latency: 12000 ns
+Sender timestamp: 184673.560078400
+Sent timestamp: 184673.560079400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.560280400
+Sent timestamp: 184673.560281300
+Calculated latency: 900 ns
+Sender timestamp: 184673.560447600
+Sent timestamp: 184673.560448600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.560694900
+Sent timestamp: 184673.560701300
+Calculated latency: 6400 ns
+Sender timestamp: 184673.560871500
+Sent timestamp: 184673.560872400
+Calculated latency: 900 ns
+Sender timestamp: 184673.561069100
+Sent timestamp: 184673.561069800
+Calculated latency: 700 ns
+Sender timestamp: 184673.561304000
+Sent timestamp: 184673.561304800
+Calculated latency: 800 ns
+Sender timestamp: 184673.561482900
+Sent timestamp: 184673.561483600
+Calculated latency: 700 ns
+Sender timestamp: 184673.561677200
+Sent timestamp: 184673.561691500
+Calculated latency: 14300 ns
+Sender timestamp: 184673.561907800
+Sent timestamp: 184673.561909000
+Calculated latency: 1200 ns
+Sender timestamp: 184673.562109100
+Sent timestamp: 184673.562109900
+Calculated latency: 800 ns
+Sender timestamp: 184673.562318200
+Sent timestamp: 184673.562319300
+Calculated latency: 1100 ns
+Sender timestamp: 184673.562555700
+Sent timestamp: 184673.562566000
+Calculated latency: 10300 ns
+Sender timestamp: 184673.562843200
+Sent timestamp: 184673.562844100
+Calculated latency: 900 ns
+Sender timestamp: 184673.563080700
+Sent timestamp: 184673.563081700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.563297800
+Sent timestamp: 184673.563298800
+Calculated latency: 1000 ns
+Sender timestamp: 184673.563616800
+Sent timestamp: 184673.563634300
+Calculated latency: 17500 ns
+Sender timestamp: 184673.563929200
+Sent timestamp: 184673.563930100
+Calculated latency: 900 ns
+Sender timestamp: 184673.564143200
+Sent timestamp: 184673.564144200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.564329600
+Sent timestamp: 184673.564330400
+Calculated latency: 800 ns
+Sender timestamp: 184673.564491800
+Sent timestamp: 184673.564498700
+Calculated latency: 6900 ns
+Sender timestamp: 184673.564715300
+Sent timestamp: 184673.564716300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.564881800
+Sent timestamp: 184673.564882400
+Calculated latency: 600 ns
+Sender timestamp: 184673.565037100
+Sent timestamp: 184673.565037800
+Calculated latency: 700 ns
+Sender timestamp: 184673.565229800
+Sent timestamp: 184673.565230500
+Calculated latency: 700 ns
+Sender timestamp: 184673.565394500
+Sent timestamp: 184673.565400500
+Calculated latency: 6000 ns
+Sender timestamp: 184673.565610000
+Sent timestamp: 184673.565610800
+Calculated latency: 800 ns
+Sender timestamp: 184673.565828200
+Sent timestamp: 184673.565829100
+Calculated latency: 900 ns
+Sender timestamp: 184673.566026000
+Sent timestamp: 184673.566026700
+Calculated latency: 700 ns
+Sender timestamp: 184673.566250500
+Sent timestamp: 184673.566256100
+Calculated latency: 5600 ns
+Sender timestamp: 184673.566428900
+Sent timestamp: 184673.566429700
+Calculated latency: 800 ns
+Sender timestamp: 184673.566574400
+Sent timestamp: 184673.566575200
+Calculated latency: 800 ns
+Sender timestamp: 184673.566789300
+Sent timestamp: 184673.566790200
+Calculated latency: 900 ns
+Sender timestamp: 184673.566967800
+Sent timestamp: 184673.566968600
+Calculated latency: 800 ns
+Sender timestamp: 184673.567124400
+Sent timestamp: 184673.567129400
+Calculated latency: 5000 ns
+Sender timestamp: 184673.567274800
+Sent timestamp: 184673.567275500
+Calculated latency: 700 ns
+Sender timestamp: 184673.567421700
+Sent timestamp: 184673.567422400
+Calculated latency: 700 ns
+Sender timestamp: 184673.567607200
+Sent timestamp: 184673.567608000
+Calculated latency: 800 ns
+Sender timestamp: 184673.567804200
+Sent timestamp: 184673.567805200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.568020100
+Sent timestamp: 184673.568028500
+Calculated latency: 8400 ns
+Sender timestamp: 184673.568255200
+Sent timestamp: 184673.568256100
+Calculated latency: 900 ns
+Sender timestamp: 184673.568505000
+Sent timestamp: 184673.568509800
+Calculated latency: 4800 ns
+Sender timestamp: 184673.568750600
+Sent timestamp: 184673.568751400
+Calculated latency: 800 ns
+Sender timestamp: 184673.568954900
+Sent timestamp: 184673.568966900
+Calculated latency: 12000 ns
+Sender timestamp: 184673.569200500
+Sent timestamp: 184673.569201500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.569403400
+Sent timestamp: 184673.569404300
+Calculated latency: 900 ns
+Sender timestamp: 184673.569701300
+Sent timestamp: 184673.569702200
+Calculated latency: 900 ns
+Sender timestamp: 184673.569956300
+Sent timestamp: 184673.569966300
+Calculated latency: 10000 ns
+Sender timestamp: 184673.570219800
+Sent timestamp: 184673.570222400
+Calculated latency: 2600 ns
+Sender timestamp: 184673.570456300
+Sent timestamp: 184673.570457100
+Calculated latency: 800 ns
+Sender timestamp: 184673.570652000
+Sent timestamp: 184673.570652800
+Calculated latency: 800 ns
+Sender timestamp: 184673.570797700
+Sent timestamp: 184673.570808900
+Calculated latency: 11200 ns
+Sender timestamp: 184673.571054300
+Sent timestamp: 184673.571055900
+Calculated latency: 1600 ns
+Sender timestamp: 184673.571239900
+Sent timestamp: 184673.571240700
+Calculated latency: 800 ns
+Sender timestamp: 184673.571432900
+Sent timestamp: 184673.571433800
+Calculated latency: 900 ns
+Sender timestamp: 184673.571638500
+Sent timestamp: 184673.571648500
+Calculated latency: 10000 ns
+Sender timestamp: 184673.571845800
+Sent timestamp: 184673.571846700
+Calculated latency: 900 ns
+Sender timestamp: 184673.572048000
+Sent timestamp: 184673.572048700
+Calculated latency: 700 ns
+Sender timestamp: 184673.572255500
+Sent timestamp: 184673.572256300
+Calculated latency: 800 ns
+Sender timestamp: 184673.572415500
+Sent timestamp: 184673.572416200
+Calculated latency: 700 ns
+Sender timestamp: 184673.572656100
+Sent timestamp: 184673.572662300
+Calculated latency: 6200 ns
+Sender timestamp: 184673.572847000
+Sent timestamp: 184673.572847800
+Calculated latency: 800 ns
+Sender timestamp: 184673.573038600
+Sent timestamp: 184673.573039400
+Calculated latency: 800 ns
+Sender timestamp: 184673.573199500
+Sent timestamp: 184673.573200300
+Calculated latency: 800 ns
+Sender timestamp: 184673.573349000
+Sent timestamp: 184673.573349700
+Calculated latency: 700 ns
+Sender timestamp: 184673.573503100
+Sent timestamp: 184673.573508700
+Calculated latency: 5600 ns
+Sender timestamp: 184673.573684500
+Sent timestamp: 184673.573685300
+Calculated latency: 800 ns
+Sender timestamp: 184673.573912300
+Sent timestamp: 184673.573913100
+Calculated latency: 800 ns
+Sender timestamp: 184673.574129600
+Sent timestamp: 184673.574130400
+Calculated latency: 800 ns
+Sender timestamp: 184673.574330800
+Sent timestamp: 184673.574331600
+Calculated latency: 800 ns
+Sender timestamp: 184673.574542300
+Sent timestamp: 184673.574548200
+Calculated latency: 5900 ns
+Sender timestamp: 184673.574766900
+Sent timestamp: 184673.574768900
+Calculated latency: 2000 ns
+Sender timestamp: 184673.574996600
+Sent timestamp: 184673.574997300
+Calculated latency: 700 ns
+Sender timestamp: 184673.575149300
+Sent timestamp: 184673.575150000
+Calculated latency: 700 ns
+Sender timestamp: 184673.575359700
+Sent timestamp: 184673.575360700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.575566000
+Sent timestamp: 184673.575578400
+Calculated latency: 12400 ns
+Sender timestamp: 184673.575807600
+Sent timestamp: 184673.575808500
+Calculated latency: 900 ns
+Sender timestamp: 184673.575981700
+Sent timestamp: 184673.575982400
+Calculated latency: 700 ns
+Sender timestamp: 184673.576159800
+Sent timestamp: 184673.576160500
+Calculated latency: 700 ns
+Sender timestamp: 184673.576346900
+Sent timestamp: 184673.576347800
+Calculated latency: 900 ns
+Sender timestamp: 184673.576531700
+Sent timestamp: 184673.576539000
+Calculated latency: 7300 ns
+Sender timestamp: 184673.576866800
+Sent timestamp: 184673.576871200
+Calculated latency: 4400 ns
+Sender timestamp: 184673.577137500
+Sent timestamp: 184673.577138500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.577387900
+Sent timestamp: 184673.577401000
+Calculated latency: 13100 ns
+Sender timestamp: 184673.577673600
+Sent timestamp: 184673.577674800
+Calculated latency: 1200 ns
+Sender timestamp: 184673.577882200
+Sent timestamp: 184673.577883000
+Calculated latency: 800 ns
+Sender timestamp: 184673.578074900
+Sent timestamp: 184673.578075600
+Calculated latency: 700 ns
+Sender timestamp: 184673.578297300
+Sent timestamp: 184673.578306600
+Calculated latency: 9300 ns
+Sender timestamp: 184673.578493600
+Sent timestamp: 184673.578494400
+Calculated latency: 800 ns
+Sender timestamp: 184673.578736500
+Sent timestamp: 184673.578737600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.578908000
+Sent timestamp: 184673.578908700
+Calculated latency: 700 ns
+Sender timestamp: 184673.579122700
+Sent timestamp: 184673.579123400
+Calculated latency: 700 ns
+Sender timestamp: 184673.579291000
+Sent timestamp: 184673.579304300
+Calculated latency: 13300 ns
+Sender timestamp: 184673.579445700
+Sent timestamp: 184673.579446500
+Calculated latency: 800 ns
+Sender timestamp: 184673.579633200
+Sent timestamp: 184673.579634400
+Calculated latency: 1200 ns
+Sender timestamp: 184673.579845100
+Sent timestamp: 184673.579846000
+Calculated latency: 900 ns
+Sender timestamp: 184673.579999300
+Sent timestamp: 184673.580000100
+Calculated latency: 800 ns
+Sender timestamp: 184673.580206300
+Sent timestamp: 184673.580214000
+Calculated latency: 7700 ns
+Sender timestamp: 184673.580380300
+Sent timestamp: 184673.580381000
+Calculated latency: 700 ns
+Sender timestamp: 184673.580552900
+Sent timestamp: 184673.580553700
+Calculated latency: 800 ns
+Sender timestamp: 184673.580735600
+Sent timestamp: 184673.580736500
+Calculated latency: 900 ns
+Sender timestamp: 184673.580925100
+Sent timestamp: 184673.580925900
+Calculated latency: 800 ns
+Sender timestamp: 184673.581145500
+Sent timestamp: 184673.581157800
+Calculated latency: 12300 ns
+Sender timestamp: 184673.581364200
+Sent timestamp: 184673.581364900
+Calculated latency: 700 ns
+Sender timestamp: 184673.581566700
+Sent timestamp: 184673.581567400
+Calculated latency: 700 ns
+Sender timestamp: 184673.581774700
+Sent timestamp: 184673.581775500
+Calculated latency: 800 ns
+Sender timestamp: 184673.581931900
+Sent timestamp: 184673.581932700
+Calculated latency: 800 ns
+Sender timestamp: 184673.582177500
+Sent timestamp: 184673.582184000
+Calculated latency: 6500 ns
+Sender timestamp: 184673.582345100
+Sent timestamp: 184673.582345800
+Calculated latency: 700 ns
+Sender timestamp: 184673.582599500
+Sent timestamp: 184673.582600300
+Calculated latency: 800 ns
+Sender timestamp: 184673.582798500
+Sent timestamp: 184673.582799300
+Calculated latency: 800 ns
+Sender timestamp: 184673.582973700
+Sent timestamp: 184673.582974500
+Calculated latency: 800 ns
+Sender timestamp: 184673.583142100
+Sent timestamp: 184673.583147900
+Calculated latency: 5800 ns
+Sender timestamp: 184673.583316600
+Sent timestamp: 184673.583317400
+Calculated latency: 800 ns
+Sender timestamp: 184673.583475000
+Sent timestamp: 184673.583475800
+Calculated latency: 800 ns
+Sender timestamp: 184673.583657100
+Sent timestamp: 184673.583657900
+Calculated latency: 800 ns
+Sender timestamp: 184673.583818000
+Sent timestamp: 184673.583818700
+Calculated latency: 700 ns
+Sender timestamp: 184673.583982200
+Sent timestamp: 184673.583989300
+Calculated latency: 7100 ns
+Sender timestamp: 184673.584157500
+Sent timestamp: 184673.584158400
+Calculated latency: 900 ns
+Sender timestamp: 184673.584369700
+Sent timestamp: 184673.584370400
+Calculated latency: 700 ns
+Sender timestamp: 184673.584596500
+Sent timestamp: 184673.584597300
+Calculated latency: 800 ns
+Sender timestamp: 184673.584860300
+Sent timestamp: 184673.584866400
+Calculated latency: 6100 ns
+Sender timestamp: 184673.585040400
+Sent timestamp: 184673.585041000
+Calculated latency: 600 ns
+Sender timestamp: 184673.585234000
+Sent timestamp: 184673.585234700
+Calculated latency: 700 ns
+Sender timestamp: 184673.585395300
+Sent timestamp: 184673.585396000
+Calculated latency: 700 ns
+Sender timestamp: 184673.585647000
+Sent timestamp: 184673.585650200
+Calculated latency: 3200 ns
+Sender timestamp: 184673.585835400
+Sent timestamp: 184673.585847700
+Calculated latency: 12300 ns
+Sender timestamp: 184673.586018100
+Sent timestamp: 184673.586018900
+Calculated latency: 800 ns
+Sender timestamp: 184673.586176000
+Sent timestamp: 184673.586176800
+Calculated latency: 800 ns
+Sender timestamp: 184673.586329400
+Sent timestamp: 184673.586330200
+Calculated latency: 800 ns
+Sender timestamp: 184673.586482700
+Sent timestamp: 184673.586483500
+Calculated latency: 800 ns
+Sender timestamp: 184673.586636400
+Sent timestamp: 184673.586637100
+Calculated latency: 700 ns
+Sender timestamp: 184673.586805400
+Sent timestamp: 184673.586811200
+Calculated latency: 5800 ns
+Sender timestamp: 184673.586967300
+Sent timestamp: 184673.586968100
+Calculated latency: 800 ns
+Sender timestamp: 184673.587118900
+Sent timestamp: 184673.587119600
+Calculated latency: 700 ns
+Sender timestamp: 184673.587283800
+Sent timestamp: 184673.587284500
+Calculated latency: 700 ns
+Sender timestamp: 184673.587437700
+Sent timestamp: 184673.587438400
+Calculated latency: 700 ns
+Sender timestamp: 184673.587706000
+Sent timestamp: 184673.587712800
+Calculated latency: 6800 ns
+Sender timestamp: 184673.587868500
+Sent timestamp: 184673.587869300
+Calculated latency: 800 ns
+Sender timestamp: 184673.588023000
+Sent timestamp: 184673.588023800
+Calculated latency: 800 ns
+Sender timestamp: 184673.588186200
+Sent timestamp: 184673.588187000
+Calculated latency: 800 ns
+Sender timestamp: 184673.588330500
+Sent timestamp: 184673.588331200
+Calculated latency: 700 ns
+Sender timestamp: 184673.588495000
+Sent timestamp: 184673.588495700
+Calculated latency: 700 ns
+Sender timestamp: 184673.588643500
+Sent timestamp: 184673.588648400
+Calculated latency: 4900 ns
+Sender timestamp: 184673.588833400
+Sent timestamp: 184673.588834200
+Calculated latency: 800 ns
+Sender timestamp: 184673.588979700
+Sent timestamp: 184673.588980400
+Calculated latency: 700 ns
+Sender timestamp: 184673.589125500
+Sent timestamp: 184673.589126100
+Calculated latency: 600 ns
+Sender timestamp: 184673.589275600
+Sent timestamp: 184673.589276300
+Calculated latency: 700 ns
+Sender timestamp: 184673.589429300
+Sent timestamp: 184673.589430100
+Calculated latency: 800 ns
+Sender timestamp: 184673.589570900
+Sent timestamp: 184673.589576200
+Calculated latency: 5300 ns
+Sender timestamp: 184673.589745000
+Sent timestamp: 184673.589745900
+Calculated latency: 900 ns
+Sender timestamp: 184673.589945900
+Sent timestamp: 184673.589946600
+Calculated latency: 700 ns
+Sender timestamp: 184673.590106300
+Sent timestamp: 184673.590107100
+Calculated latency: 800 ns
+Sender timestamp: 184673.590252000
+Sent timestamp: 184673.590252900
+Calculated latency: 900 ns
+Sender timestamp: 184673.590426700
+Sent timestamp: 184673.590433900
+Calculated latency: 7200 ns
+Sender timestamp: 184673.590767600
+Sent timestamp: 184673.590772400
+Calculated latency: 4800 ns
+Sender timestamp: 184673.591040700
+Sent timestamp: 184673.591041600
+Calculated latency: 900 ns
+Sender timestamp: 184673.591190800
+Sent timestamp: 184673.591191600
+Calculated latency: 800 ns
+Sender timestamp: 184673.591361800
+Sent timestamp: 184673.591375200
+Calculated latency: 13400 ns
+Sender timestamp: 184673.591578700
+Sent timestamp: 184673.591580600
+Calculated latency: 1900 ns
+Sender timestamp: 184673.591810600
+Sent timestamp: 184673.591811400
+Calculated latency: 800 ns
+Sender timestamp: 184673.591989000
+Sent timestamp: 184673.591989800
+Calculated latency: 800 ns
+Sender timestamp: 184673.592173500
+Sent timestamp: 184673.592174200
+Calculated latency: 700 ns
+Sender timestamp: 184673.592368000
+Sent timestamp: 184673.592377000
+Calculated latency: 9000 ns
+Sender timestamp: 184673.592548700
+Sent timestamp: 184673.592549400
+Calculated latency: 700 ns
+Sender timestamp: 184673.592722000
+Sent timestamp: 184673.592722800
+Calculated latency: 800 ns
+Sender timestamp: 184673.592913800
+Sent timestamp: 184673.592915600
+Calculated latency: 1800 ns
+Sender timestamp: 184673.593128800
+Sent timestamp: 184673.593129600
+Calculated latency: 800 ns
+Sender timestamp: 184673.593326200
+Sent timestamp: 184673.593335200
+Calculated latency: 9000 ns
+Sender timestamp: 184673.593516200
+Sent timestamp: 184673.593517000
+Calculated latency: 800 ns
+Sender timestamp: 184673.593742600
+Sent timestamp: 184673.593743500
+Calculated latency: 900 ns
+Sender timestamp: 184673.593919400
+Sent timestamp: 184673.593920100
+Calculated latency: 700 ns
+Sender timestamp: 184673.594111000
+Sent timestamp: 184673.594111700
+Calculated latency: 700 ns
+Sender timestamp: 184673.594275000
+Sent timestamp: 184673.594280700
+Calculated latency: 5700 ns
+Sender timestamp: 184673.594451200
+Sent timestamp: 184673.594451900
+Calculated latency: 700 ns
+Sender timestamp: 184673.594624500
+Sent timestamp: 184673.594625200
+Calculated latency: 700 ns
+Sender timestamp: 184673.594844800
+Sent timestamp: 184673.594845700
+Calculated latency: 900 ns
+Sender timestamp: 184673.595031100
+Sent timestamp: 184673.595031900
+Calculated latency: 800 ns
+Sender timestamp: 184673.595209600
+Sent timestamp: 184673.595217400
+Calculated latency: 7800 ns
+Sender timestamp: 184673.595379500
+Sent timestamp: 184673.595380300
+Calculated latency: 800 ns
+Sender timestamp: 184673.595548600
+Sent timestamp: 184673.595549400
+Calculated latency: 800 ns
+Sender timestamp: 184673.595733900
+Sent timestamp: 184673.595734700
+Calculated latency: 800 ns
+Sender timestamp: 184673.595899200
+Sent timestamp: 184673.595900100
+Calculated latency: 900 ns
+Sender timestamp: 184673.596056800
+Sent timestamp: 184673.596062500
+Calculated latency: 5700 ns
+Sender timestamp: 184673.596222000
+Sent timestamp: 184673.596222800
+Calculated latency: 800 ns
+Sender timestamp: 184673.596386900
+Sent timestamp: 184673.596387700
+Calculated latency: 800 ns
+Sender timestamp: 184673.596550600
+Sent timestamp: 184673.596551300
+Calculated latency: 700 ns
+Sender timestamp: 184673.596734900
+Sent timestamp: 184673.596735800
+Calculated latency: 900 ns
+Sender timestamp: 184673.596943300
+Sent timestamp: 184673.596949600
+Calculated latency: 6300 ns
+Sender timestamp: 184673.597115300
+Sent timestamp: 184673.597116300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.597356600
+Sent timestamp: 184673.597357600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.597567400
+Sent timestamp: 184673.597568400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.598009100
+Sent timestamp: 184673.598039300
+Calculated latency: 30200 ns
+Sender timestamp: 184673.598438600
+Sent timestamp: 184673.598439700
+Calculated latency: 1100 ns
+Sender timestamp: 184673.598651000
+Sent timestamp: 184673.598651800
+Calculated latency: 800 ns
+Sender timestamp: 184673.598811000
+Sent timestamp: 184673.598811800
+Calculated latency: 800 ns
+Sender timestamp: 184673.599115300
+Sent timestamp: 184673.599129700
+Calculated latency: 14400 ns
+Sender timestamp: 184673.599328500
+Sent timestamp: 184673.599329300
+Calculated latency: 800 ns
+Sender timestamp: 184673.599487400
+Sent timestamp: 184673.599488200
+Calculated latency: 800 ns
+Sender timestamp: 184673.599736600
+Sent timestamp: 184673.599737500
+Calculated latency: 900 ns
+Sender timestamp: 184673.599930300
+Sent timestamp: 184673.599931000
+Calculated latency: 700 ns
+Sender timestamp: 184673.600141900
+Sent timestamp: 184673.600148700
+Calculated latency: 6800 ns
+Sender timestamp: 184673.600314000
+Sent timestamp: 184673.600314800
+Calculated latency: 800 ns
+Sender timestamp: 184673.600533400
+Sent timestamp: 184673.600534200
+Calculated latency: 800 ns
+Sender timestamp: 184673.600715900
+Sent timestamp: 184673.600716700
+Calculated latency: 800 ns
+Sender timestamp: 184673.600936700
+Sent timestamp: 184673.600937600
+Calculated latency: 900 ns
+Sender timestamp: 184673.601158000
+Sent timestamp: 184673.601163700
+Calculated latency: 5700 ns
+Sender timestamp: 184673.601338500
+Sent timestamp: 184673.601339300
+Calculated latency: 800 ns
+Sender timestamp: 184673.601511700
+Sent timestamp: 184673.601512400
+Calculated latency: 700 ns
+Sender timestamp: 184673.601665800
+Sent timestamp: 184673.601666600
+Calculated latency: 800 ns
+Sender timestamp: 184673.601859500
+Sent timestamp: 184673.601861400
+Calculated latency: 1900 ns
+Sender timestamp: 184673.602072700
+Sent timestamp: 184673.602085800
+Calculated latency: 13100 ns
+Sender timestamp: 184673.602264900
+Sent timestamp: 184673.602265900
+Calculated latency: 1000 ns
+Sender timestamp: 184673.602512100
+Sent timestamp: 184673.602513400
+Calculated latency: 1300 ns
+Sender timestamp: 184673.602742000
+Sent timestamp: 184673.602742900
+Calculated latency: 900 ns
+Sender timestamp: 184673.602992400
+Sent timestamp: 184673.603004800
+Calculated latency: 12400 ns
+Sender timestamp: 184673.603182100
+Sent timestamp: 184673.603182900
+Calculated latency: 800 ns
+Sender timestamp: 184673.603371000
+Sent timestamp: 184673.603372200
+Calculated latency: 1200 ns
+Sender timestamp: 184673.603587800
+Sent timestamp: 184673.603588600
+Calculated latency: 800 ns
+Sender timestamp: 184673.603820600
+Sent timestamp: 184673.603821500
+Calculated latency: 900 ns
+Sender timestamp: 184673.604024200
+Sent timestamp: 184673.604033400
+Calculated latency: 9200 ns
+Sender timestamp: 184673.604227400
+Sent timestamp: 184673.604228300
+Calculated latency: 900 ns
+Sender timestamp: 184673.604416000
+Sent timestamp: 184673.604416800
+Calculated latency: 800 ns
+Sender timestamp: 184673.604672900
+Sent timestamp: 184673.604674600
+Calculated latency: 1700 ns
+Sender timestamp: 184673.604884800
+Sent timestamp: 184673.604894800
+Calculated latency: 10000 ns
+Sender timestamp: 184673.605075500
+Sent timestamp: 184673.605076200
+Calculated latency: 700 ns
+Sender timestamp: 184673.605329500
+Sent timestamp: 184673.605330600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.605535500
+Sent timestamp: 184673.605536200
+Calculated latency: 700 ns
+Sender timestamp: 184673.605695700
+Sent timestamp: 184673.605696500
+Calculated latency: 800 ns
+Sender timestamp: 184673.605955300
+Sent timestamp: 184673.605963200
+Calculated latency: 7900 ns
+Sender timestamp: 184673.606161900
+Sent timestamp: 184673.606162800
+Calculated latency: 900 ns
+Sender timestamp: 184673.606370500
+Sent timestamp: 184673.606371400
+Calculated latency: 900 ns
+Sender timestamp: 184673.606550500
+Sent timestamp: 184673.606551200
+Calculated latency: 700 ns
+Sender timestamp: 184673.606732800
+Sent timestamp: 184673.606733600
+Calculated latency: 800 ns
+Sender timestamp: 184673.606920500
+Sent timestamp: 184673.606927300
+Calculated latency: 6800 ns
+Sender timestamp: 184673.607151100
+Sent timestamp: 184673.607152000
+Calculated latency: 900 ns
+Sender timestamp: 184673.607359400
+Sent timestamp: 184673.607360200
+Calculated latency: 800 ns
+Sender timestamp: 184673.607546900
+Sent timestamp: 184673.607547800
+Calculated latency: 900 ns
+Sender timestamp: 184673.607759100
+Sent timestamp: 184673.607765100
+Calculated latency: 6000 ns
+Sender timestamp: 184673.607941900
+Sent timestamp: 184673.607942700
+Calculated latency: 800 ns
+Sender timestamp: 184673.608094800
+Sent timestamp: 184673.608095500
+Calculated latency: 700 ns
+Sender timestamp: 184673.608234600
+Sent timestamp: 184673.608235400
+Calculated latency: 800 ns
+Sender timestamp: 184673.608397400
+Sent timestamp: 184673.608398100
+Calculated latency: 700 ns
+Sender timestamp: 184673.608616100
+Sent timestamp: 184673.608623100
+Calculated latency: 7000 ns
+Sender timestamp: 184673.608806000
+Sent timestamp: 184673.608806700
+Calculated latency: 700 ns
+Sender timestamp: 184673.608979500
+Sent timestamp: 184673.608980400
+Calculated latency: 900 ns
+Sender timestamp: 184673.609142100
+Sent timestamp: 184673.609142800
+Calculated latency: 700 ns
+Sender timestamp: 184673.609331100
+Sent timestamp: 184673.609331900
+Calculated latency: 800 ns
+Sender timestamp: 184673.609480700
+Sent timestamp: 184673.609485900
+Calculated latency: 5200 ns
+Sender timestamp: 184673.609708400
+Sent timestamp: 184673.609709200
+Calculated latency: 800 ns
+Sender timestamp: 184673.609875700
+Sent timestamp: 184673.609876400
+Calculated latency: 700 ns
+Sender timestamp: 184673.610047000
+Sent timestamp: 184673.610047700
+Calculated latency: 700 ns
+Sender timestamp: 184673.610257100
+Sent timestamp: 184673.610281200
+Calculated latency: 24100 ns
+Sender timestamp: 184673.610436500
+Sent timestamp: 184673.610442100
+Calculated latency: 5600 ns
+Sender timestamp: 184673.610611700
+Sent timestamp: 184673.610612400
+Calculated latency: 700 ns
+Sender timestamp: 184673.610808500
+Sent timestamp: 184673.610809300
+Calculated latency: 800 ns
+Sender timestamp: 184673.610949800
+Sent timestamp: 184673.610950600
+Calculated latency: 800 ns
+Sender timestamp: 184673.611163500
+Sent timestamp: 184673.611164600
+Calculated latency: 1100 ns
+Sender timestamp: 184673.611355500
+Sent timestamp: 184673.611362100
+Calculated latency: 6600 ns
+Sender timestamp: 184673.611598600
+Sent timestamp: 184673.611599700
+Calculated latency: 1100 ns
+Sender timestamp: 184673.611898100
+Sent timestamp: 184673.611904000
+Calculated latency: 5900 ns
+Sender timestamp: 184673.612186500
+Sent timestamp: 184673.612187300
+Calculated latency: 800 ns
+Sender timestamp: 184673.612429800
+Sent timestamp: 184673.612436500
+Calculated latency: 6700 ns
+Sender timestamp: 184673.612646700
+Sent timestamp: 184673.612647600
+Calculated latency: 900 ns
+Sender timestamp: 184673.612861400
+Sent timestamp: 184673.612862100
+Calculated latency: 700 ns
+Sender timestamp: 184673.614567800
+Sent timestamp: 184673.614578700
+Calculated latency: 10900 ns
+Sender timestamp: 184673.614792000
+Sent timestamp: 184673.614792800
+Calculated latency: 800 ns
+Sender timestamp: 184673.615036400
+Sent timestamp: 184673.615039000
+Calculated latency: 2600 ns
+Sender timestamp: 184673.615337500
+Sent timestamp: 184673.615338500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.615515000
+Sent timestamp: 184673.615527000
+Calculated latency: 12000 ns
+Sender timestamp: 184673.615754500
+Sent timestamp: 184673.615755400
+Calculated latency: 900 ns
+Sender timestamp: 184673.615925000
+Sent timestamp: 184673.615925800
+Calculated latency: 800 ns
+Sender timestamp: 184673.616098000
+Sent timestamp: 184673.616098700
+Calculated latency: 700 ns
+Sender timestamp: 184673.616257300
+Sent timestamp: 184673.616258000
+Calculated latency: 700 ns
+Sender timestamp: 184673.616478500
+Sent timestamp: 184673.616485700
+Calculated latency: 7200 ns
+Sender timestamp: 184673.616677600
+Sent timestamp: 184673.616680700
+Calculated latency: 3100 ns
+Sender timestamp: 184673.616918600
+Sent timestamp: 184673.616919400
+Calculated latency: 800 ns
+Sender timestamp: 184673.617120400
+Sent timestamp: 184673.617121200
+Calculated latency: 800 ns
+Sender timestamp: 184673.617289300
+Sent timestamp: 184673.617290100
+Calculated latency: 800 ns
+Sender timestamp: 184673.617480600
+Sent timestamp: 184673.617486500
+Calculated latency: 5900 ns
+Sender timestamp: 184673.617657800
+Sent timestamp: 184673.617658600
+Calculated latency: 800 ns
+Sender timestamp: 184673.617825000
+Sent timestamp: 184673.617825700
+Calculated latency: 700 ns
+Sender timestamp: 184673.618078300
+Sent timestamp: 184673.618079600
+Calculated latency: 1300 ns
+Sender timestamp: 184673.618268200
+Sent timestamp: 184673.618269000
+Calculated latency: 800 ns
+Sender timestamp: 184673.618500600
+Sent timestamp: 184673.618508900
+Calculated latency: 8300 ns
+Sender timestamp: 184673.618776400
+Sent timestamp: 184673.618777700
+Calculated latency: 1300 ns
+Sender timestamp: 184673.619002100
+Sent timestamp: 184673.619002800
+Calculated latency: 700 ns
+Sender timestamp: 184673.619168100
+Sent timestamp: 184673.619169300
+Calculated latency: 1200 ns
+Sender timestamp: 184673.619396400
+Sent timestamp: 184673.619404200
+Calculated latency: 7800 ns
+Sender timestamp: 184673.619618500
+Sent timestamp: 184673.619619500
+Calculated latency: 1000 ns
+Sender timestamp: 184673.619837700
+Sent timestamp: 184673.619838700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.620017600
+Sent timestamp: 184673.620018300
+Calculated latency: 700 ns
+Sender timestamp: 184673.620230800
+Sent timestamp: 184673.620231700
+Calculated latency: 900 ns
+Sender timestamp: 184673.620429200
+Sent timestamp: 184673.620436200
+Calculated latency: 7000 ns
+Sender timestamp: 184673.620608500
+Sent timestamp: 184673.620609300
+Calculated latency: 800 ns
+Sender timestamp: 184673.620805200
+Sent timestamp: 184673.620806100
+Calculated latency: 900 ns
+Sender timestamp: 184673.620961400
+Sent timestamp: 184673.620962200
+Calculated latency: 800 ns
+Sender timestamp: 184673.621117500
+Sent timestamp: 184673.621118200
+Calculated latency: 700 ns
+Sender timestamp: 184673.621293200
+Sent timestamp: 184673.621299700
+Calculated latency: 6500 ns
+Sender timestamp: 184673.621441300
+Sent timestamp: 184673.621442000
+Calculated latency: 700 ns
+Sender timestamp: 184673.621633200
+Sent timestamp: 184673.621633900
+Calculated latency: 700 ns
+Sender timestamp: 184673.621806200
+Sent timestamp: 184673.621807000
+Calculated latency: 800 ns
+Sender timestamp: 184673.621978600
+Sent timestamp: 184673.621979300
+Calculated latency: 700 ns
+Sender timestamp: 184673.622175700
+Sent timestamp: 184673.622181300
+Calculated latency: 5600 ns
+Sender timestamp: 184673.622370000
+Sent timestamp: 184673.622370800
+Calculated latency: 800 ns
+Sender timestamp: 184673.622562300
+Sent timestamp: 184673.622563400
+Calculated latency: 1100 ns
+Sender timestamp: 184673.622733200
+Sent timestamp: 184673.622734000
+Calculated latency: 800 ns
+Sender timestamp: 184673.622887300
+Sent timestamp: 184673.622888000
+Calculated latency: 700 ns
+Sender timestamp: 184673.623118300
+Sent timestamp: 184673.623124800
+Calculated latency: 6500 ns
+Sender timestamp: 184673.623299000
+Sent timestamp: 184673.623299900
+Calculated latency: 900 ns
+Sender timestamp: 184673.623493500
+Sent timestamp: 184673.623494300
+Calculated latency: 800 ns
+Sender timestamp: 184673.623659900
+Sent timestamp: 184673.623660500
+Calculated latency: 600 ns
+Sender timestamp: 184673.623842400
+Sent timestamp: 184673.623843100
+Calculated latency: 700 ns
+Sender timestamp: 184673.624023800
+Sent timestamp: 184673.624029600
+Calculated latency: 5800 ns
+Sender timestamp: 184673.624194900
+Sent timestamp: 184673.624195700
+Calculated latency: 800 ns
+Sender timestamp: 184673.624364100
+Sent timestamp: 184673.624364900
+Calculated latency: 800 ns
+Sender timestamp: 184673.624589700
+Sent timestamp: 184673.624590700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.624779600
+Sent timestamp: 184673.624780400
+Calculated latency: 800 ns
+Sender timestamp: 184673.625001600
+Sent timestamp: 184673.625014000
+Calculated latency: 12400 ns
+Sender timestamp: 184673.625182700
+Sent timestamp: 184673.625183300
+Calculated latency: 600 ns
+Sender timestamp: 184673.625430300
+Sent timestamp: 184673.625431400
+Calculated latency: 1100 ns
+Sender timestamp: 184673.625610300
+Sent timestamp: 184673.625611200
+Calculated latency: 900 ns
+Sender timestamp: 184673.625806700
+Sent timestamp: 184673.625807400
+Calculated latency: 700 ns
+Sender timestamp: 184673.625972300
+Sent timestamp: 184673.625980500
+Calculated latency: 8200 ns
+Sender timestamp: 184673.626254000
+Sent timestamp: 184673.626255400
+Calculated latency: 1400 ns
+Sender timestamp: 184673.626463900
+Sent timestamp: 184673.626464700
+Calculated latency: 800 ns
+Sender timestamp: 184673.626630500
+Sent timestamp: 184673.626631300
+Calculated latency: 800 ns
+Sender timestamp: 184673.626797600
+Sent timestamp: 184673.626798400
+Calculated latency: 800 ns
+Sender timestamp: 184673.627033100
+Sent timestamp: 184673.627040100
+Calculated latency: 7000 ns
+Sender timestamp: 184673.627235800
+Sent timestamp: 184673.627236500
+Calculated latency: 700 ns
+Sender timestamp: 184673.627414000
+Sent timestamp: 184673.627414700
+Calculated latency: 700 ns
+Sender timestamp: 184673.627615200
+Sent timestamp: 184673.627615800
+Calculated latency: 600 ns
+Sender timestamp: 184673.627774200
+Sent timestamp: 184673.627775000
+Calculated latency: 800 ns
+Sender timestamp: 184673.627974100
+Sent timestamp: 184673.627986100
+Calculated latency: 12000 ns
+Sender timestamp: 184673.628175100
+Sent timestamp: 184673.628175900
+Calculated latency: 800 ns
+Sender timestamp: 184673.628429300
+Sent timestamp: 184673.628430100
+Calculated latency: 800 ns
+Sender timestamp: 184673.628600500
+Sent timestamp: 184673.628601200
+Calculated latency: 700 ns
+Sender timestamp: 184673.628809200
+Sent timestamp: 184673.628817400
+Calculated latency: 8200 ns
+Sender timestamp: 184673.629003700
+Sent timestamp: 184673.629004400
+Calculated latency: 700 ns
+Sender timestamp: 184673.629438900
+Sent timestamp: 184673.629439700
+Calculated latency: 800 ns
+Sender timestamp: 184673.629618100
+Sent timestamp: 184673.629618800
+Calculated latency: 700 ns
+Sender timestamp: 184673.629849000
+Sent timestamp: 184673.629854800
+Calculated latency: 5800 ns
+Sender timestamp: 184673.630022600
+Sent timestamp: 184673.630023400
+Calculated latency: 800 ns
+Sender timestamp: 184673.630226300
+Sent timestamp: 184673.630227100
+Calculated latency: 800 ns
+Sender timestamp: 184673.630427600
+Sent timestamp: 184673.630428400
+Calculated latency: 800 ns
+Sender timestamp: 184673.630601200
+Sent timestamp: 184673.630601900
+Calculated latency: 700 ns
+Sender timestamp: 184673.630764500
+Sent timestamp: 184673.630769600
+Calculated latency: 5100 ns
+Sender timestamp: 184673.630949300
+Sent timestamp: 184673.630950000
+Calculated latency: 700 ns
+Sender timestamp: 184673.631163300
+Sent timestamp: 184673.631164000
+Calculated latency: 700 ns
+Sender timestamp: 184673.631747500
+Sent timestamp: 184673.631754000
+Calculated latency: 6500 ns
+Sender timestamp: 184673.632012100
+Sent timestamp: 184673.632015600
+Calculated latency: 3500 ns
+Sender timestamp: 184673.632282600
+Sent timestamp: 184673.632283500
+Calculated latency: 900 ns
+Sender timestamp: 184673.632579700
+Sent timestamp: 184673.632580900
+Calculated latency: 1200 ns
+Sender timestamp: 184673.632791100
+Sent timestamp: 184673.632797000
+Calculated latency: 5900 ns
+Sender timestamp: 184673.632965400
+Sent timestamp: 184673.632966200
+Calculated latency: 800 ns
+Sender timestamp: 184673.633178200
+Sent timestamp: 184673.633179800
+Calculated latency: 1600 ns
+Sender timestamp: 184673.633391800
+Sent timestamp: 184673.633392900
+Calculated latency: 1100 ns
+Sender timestamp: 184673.633571800
+Sent timestamp: 184673.633572600
+Calculated latency: 800 ns
+Sender timestamp: 184673.633784200
+Sent timestamp: 184673.633799600
+Calculated latency: 15400 ns
+Sender timestamp: 184673.634004200
+Sent timestamp: 184673.634005100
+Calculated latency: 900 ns
+Sender timestamp: 184673.634236300
+Sent timestamp: 184673.634237300
+Calculated latency: 1000 ns
+Sender timestamp: 184673.634454300
+Sent timestamp: 184673.634455200
+Calculated latency: 900 ns
+Sender timestamp: 184673.634639300
+Sent timestamp: 184673.634645700
+Calculated latency: 6400 ns
+Sender timestamp: 184673.634806100
+Sent timestamp: 184673.634806900
+Calculated latency: 800 ns
+Sender timestamp: 184673.634974200
+Sent timestamp: 184673.634975000
+Calculated latency: 800 ns
+Sender timestamp: 184673.635143300
+Sent timestamp: 184673.635144100
+Calculated latency: 800 ns
+Sender timestamp: 184673.635363700
+Sent timestamp: 184673.635364700
+Calculated latency: 1000 ns
+Sender timestamp: 184673.635523000
+Sent timestamp: 184673.635528800
+Calculated latency: 5800 ns
+Sender timestamp: 184673.635746600
+Sent timestamp: 184673.635747800
+Calculated latency: 1200 ns
+Sender timestamp: 184673.635957900
+Sent timestamp: 184673.635958700
+Calculated latency: 800 ns
+Sender timestamp: 184673.636156200
+Sent timestamp: 184673.636156900
+Calculated latency: 700 ns
+Sender timestamp: 184673.636371100
+Sent timestamp: 184673.636378800
+Calculated latency: 7700 ns
+Sender timestamp: 184673.636559300
+Sent timestamp: 184673.636560100
+Calculated latency: 800 ns
+Sender timestamp: 184673.636806600
+Sent timestamp: 184673.636807700
+Calculated latency: 1100 ns
+Sender timestamp: 184673.637026400
+Sent timestamp: 184673.637027300
+Calculated latency: 900 ns
+Sender timestamp: 184673.637195700
+Sent timestamp: 184673.637196500
+Calculated latency: 800 ns
+Sender timestamp: 184673.637352000
+Sent timestamp: 184673.637357900
+Calculated latency: 5900 ns
+Sender timestamp: 184673.637508400
+Sent timestamp: 184673.637509200
+Calculated latency: 800 ns
+Sender timestamp: 184673.637697700
+Sent timestamp: 184673.637698600
+Calculated latency: 900 ns
+Sender timestamp: 184673.637866100
+Sent timestamp: 184673.637866800
+Calculated latency: 700 ns
+Sender timestamp: 184673.638007700
+Sent timestamp: 184673.638008300
+Calculated latency: 600 ns
+Sender timestamp: 184673.638188100
+Sent timestamp: 184673.638193900
+Calculated latency: 5800 ns
+Sender timestamp: 184673.638356300
+Sent timestamp: 184673.638357000
+Calculated latency: 700 ns
+Sender timestamp: 184673.638526100
+Sent timestamp: 184673.638527000
+Calculated latency: 900 ns
+Sender timestamp: 184673.638675800
+Sent timestamp: 184673.638676700
+Calculated latency: 900 ns
+Sender timestamp: 184673.638879600
+Sent timestamp: 184673.638880500
+Calculated latency: 900 ns
+Sender timestamp: 184673.639138800
+Sent timestamp: 184673.639148500
+Calculated latency: 9700 ns
+Sender timestamp: 184673.639342900
+Sent timestamp: 184673.639343900
+Calculated latency: 1000 ns
+Sender timestamp: 184673.639545600
+Sent timestamp: 184673.639546500
+Calculated latency: 900 ns
+Sender timestamp: 184673.639816600
+Sent timestamp: 184673.639819900
+Calculated latency: 3300 ns
+Sender timestamp: 184673.640147900
+Sent timestamp: 184673.640158900
+Calculated latency: 11000 ns
+Sender timestamp: 184673.640366600
+Sent timestamp: 184673.640367500
+Calculated latency: 900 ns
+Sender timestamp: 184673.640592000
+Sent timestamp: 184673.640593100
+Calculated latency: 1100 ns
+Sender timestamp: 184673.640842400
+Sent timestamp: 184673.640843300
+Calculated latency: 900 ns
+Sender timestamp: 184673.641098600
+Sent timestamp: 184673.641112200
+Calculated latency: 13600 ns
+Sender timestamp: 184673.641298500
+Sent timestamp: 184673.641299200
+Calculated latency: 700 ns
+Sender timestamp: 184673.641463000
+Sent timestamp: 184673.641463700
+Calculated latency: 700 ns
+Sender timestamp: 184673.641685700
+Sent timestamp: 184673.641686500
+Calculated latency: 800 ns
+Sender timestamp: 184673.641851000
+Sent timestamp: 184673.641851800
+Calculated latency: 800 ns
+Sender timestamp: 184673.642069600
+Sent timestamp: 184673.642077400
+Calculated latency: 7800 ns
+Sender timestamp: 184673.642238100
+Sent timestamp: 184673.642238800
+Calculated latency: 700 ns
+Sender timestamp: 184673.642426200
+Sent timestamp: 184673.642426900
+Calculated latency: 700 ns
+Sender timestamp: 184673.642606300
+Sent timestamp: 184673.642607000
+Calculated latency: 700 ns
+Sender timestamp: 184673.642794800
+Sent timestamp: 184673.642795700
+Calculated latency: 900 ns
+Sender timestamp: 184673.642977900
+Sent timestamp: 184673.642984300
+Calculated latency: 6400 ns
+Sender timestamp: 184673.643189800
+Sent timestamp: 184673.643190600
+Calculated latency: 800 ns
+Sender timestamp: 184673.643414400
+Sent timestamp: 184673.643415900
+Calculated latency: 1500 ns
+Sender timestamp: 184673.643628800
+Sent timestamp: 184673.643629400
+Calculated latency: 600 ns
+Sender timestamp: 184673.643870300
+Sent timestamp: 184673.643876200
+Calculated latency: 5900 ns
+Sender timestamp: 184673.644063900
+Sent timestamp: 184673.644064600
+Calculated latency: 700 ns
+Sender timestamp: 184673.644227900
+Sent timestamp: 184673.644228600
+Calculated latency: 700 ns
+Sender timestamp: 184673.644396900
+Sent timestamp: 184673.644397900
+Calculated latency: 1000 ns
+Sender timestamp: 184673.644653400
+Sent timestamp: 184673.644654400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.644884100
+Sent timestamp: 184673.644911100
+Calculated latency: 27000 ns
+Sender timestamp: 184673.645167000
+Sent timestamp: 184673.645168100
+Calculated latency: 1100 ns
+Sender timestamp: 184673.645423800
+Sent timestamp: 184673.645425100
+Calculated latency: 1300 ns
+Sender timestamp: 184673.645649800
+Sent timestamp: 184673.645650800
+Calculated latency: 1000 ns
+Sender timestamp: 184673.645956200
+Sent timestamp: 184673.645964500
+Calculated latency: 8300 ns
+Sender timestamp: 184673.646175400
+Sent timestamp: 184673.646176400
+Calculated latency: 1000 ns
+Sender timestamp: 184673.646364400
+Sent timestamp: 184673.646365300
+Calculated latency: 900 ns
+Sender timestamp: 184673.646758500
+Sent timestamp: 184673.646762500
+Calculated latency: 4000 ns
+Sender timestamp: 184673.646937500
+Sent timestamp: 184673.646949100
+Calculated latency: 11600 ns
+Sender timestamp: 184673.647224000
+Sent timestamp: 184673.647225400
+Calculated latency: 1400 ns
+Sender timestamp: 184673.647478200
+Sent timestamp: 184673.647479200
+Calculated latency: 1000 ns
+Sender timestamp: 184673.647657300
+Sent timestamp: 184673.647658100
+Calculated latency: 800 ns
+Sender timestamp: 184673.647887900
+Sent timestamp: 184673.647898300
+Calculated latency: 10400 ns
+Sender timestamp: 184673.648132100
+Sent timestamp: 184673.648133200
+Calculated latency: 1100 ns
+Sender timestamp: 184673.648331600
+Sent timestamp: 184673.648332300
+Calculated latency: 700 ns
+Sender timestamp: 184673.648478600
+Sent timestamp: 184673.648479300
+Calculated latency: 700 ns
+Sender timestamp: 184673.648799700
+Sent timestamp: 184673.648813200
+Calculated latency: 13500 ns
+Sender timestamp: 184673.648999100
+Sent timestamp: 184673.649000000
+Calculated latency: 900 ns
+Sender timestamp: 184673.649148900
+Sent timestamp: 184673.649149700
+Calculated latency: 800 ns
+Sender timestamp: 184673.649300800
+Sent timestamp: 184673.649301600
+Calculated latency: 800 ns
+Sender timestamp: 184673.649547500
+Sent timestamp: 184673.649551500
+Calculated latency: 4000 ns
+Sender timestamp: 184673.649807200
+Sent timestamp: 184673.649818700
+Calculated latency: 11500 ns
+Sender timestamp: 184673.650013800
+Sent timestamp: 184673.650014700
+Calculated latency: 900 ns
+Sender timestamp: 184673.650173400
+Sent timestamp: 184673.650174000
+Calculated latency: 600 ns
+Sender timestamp: 184673.650384400
+Sent timestamp: 184673.650385300
+Calculated latency: 900 ns
+Sender timestamp: 184673.650597800
+Sent timestamp: 184673.650598800
+Calculated latency: 1000 ns
+Sender timestamp: 184673.650789900
+Sent timestamp: 184673.650798100
+Calculated latency: 8200 ns
+Sender timestamp: 184673.650967400
+Sent timestamp: 184673.650968200
+Calculated latency: 800 ns
+Sender timestamp: 184673.651131600
+Sent timestamp: 184673.651132400
+Calculated latency: 800 ns
+Sender timestamp: 184673.651309200
+Sent timestamp: 184673.651310000
+Calculated latency: 800 ns
+Sender timestamp: 184673.651473200
+Sent timestamp: 184673.651473800
+Calculated latency: 600 ns
+Sender timestamp: 184673.651623500
+Sent timestamp: 184673.651624300
+Calculated latency: 800 ns
+Sender timestamp: 184673.651814200
+Sent timestamp: 184673.651821700
+Calculated latency: 7500 ns
+Sender timestamp: 184673.652014600
+Sent timestamp: 184673.652015300
+Calculated latency: 700 ns
+Sender timestamp: 184673.652179400
+Sent timestamp: 184673.652180100
+Calculated latency: 700 ns
+Sender timestamp: 184673.652327100
+Sent timestamp: 184673.652327900
+Calculated latency: 800 ns
+Sender timestamp: 184673.652507800
+Sent timestamp: 184673.652508600
+Calculated latency: 800 ns
+Sender timestamp: 184673.652659800
+Sent timestamp: 184673.652665000
+Calculated latency: 5200 ns
+Sender timestamp: 184673.652971800
+Sent timestamp: 184673.652976600
+Calculated latency: 4800 ns
+Sender timestamp: 184673.653258800
+Sent timestamp: 184673.653259700
+Calculated latency: 900 ns
+Sender timestamp: 184673.653435900
+Sent timestamp: 184673.653436600
+Calculated latency: 700 ns
+Sender timestamp: 184673.653609500
+Sent timestamp: 184673.653625500
+Calculated latency: 16000 ns
+Sender timestamp: 184673.653904400
+Sent timestamp: 184673.653906100
+Calculated latency: 1700 ns
+Sender timestamp: 184673.654097100
+Sent timestamp: 184673.654097800
+Calculated latency: 700 ns
+Sender timestamp: 184673.654237900
+Sent timestamp: 184673.654238600
+Calculated latency: 700 ns
+Sender timestamp: 184673.654523400
+Sent timestamp: 184673.654531600
+Calculated latency: 8200 ns
+Sender timestamp: 184673.654722300
+Sent timestamp: 184673.654723200
+Calculated latency: 900 ns
+Sender timestamp: 184673.654920200
+Sent timestamp: 184673.654921000
+Calculated latency: 800 ns
+Sender timestamp: 184673.655138800
+Sent timestamp: 184673.655139900
+Calculated latency: 1100 ns
+Sender timestamp: 184673.655320400
+Sent timestamp: 184673.655321200
+Calculated latency: 800 ns
+Sender timestamp: 184673.655487000
+Sent timestamp: 184673.655497700
+Calculated latency: 10700 ns
+Sender timestamp: 184673.655651600
+Sent timestamp: 184673.655652400
+Calculated latency: 800 ns
+Sender timestamp: 184673.655893600
+Sent timestamp: 184673.655894900
+Calculated latency: 1300 ns
+Sender timestamp: 184673.656175300
+Sent timestamp: 184673.656176200
+Calculated latency: 900 ns
+Sender timestamp: 184673.656415900
+Sent timestamp: 184673.656427300
+Calculated latency: 11400 ns
+Sender timestamp: 184673.656671600
+Sent timestamp: 184673.656672600
+Calculated latency: 1000 ns
+Sender timestamp: 184673.656865400
+Sent timestamp: 184673.656866200
+Calculated latency: 800 ns
+Sender timestamp: 184673.657079500
+Sent timestamp: 184673.657080400
+Calculated latency: 900 ns
+Sender timestamp: 184673.657302000
+Sent timestamp: 184673.657312200
+Calculated latency: 10200 ns
+Sender timestamp: 184673.657500000
+Sent timestamp: 184673.657500800
+Calculated latency: 800 ns
+Sender timestamp: 184673.657676300
+Sent timestamp: 184673.657680300
+Calculated latency: 4000 ns
+Sender timestamp: 184673.657865200
+Sent timestamp: 184673.657866100
+Calculated latency: 900 ns
+Sender timestamp: 184673.658032600
+Sent timestamp: 184673.658033400
+Calculated latency: 800 ns
+Sender timestamp: 184673.658208700
+Sent timestamp: 184673.658214800
+Calculated latency: 6100 ns
+Sender timestamp: 184673.658378400
+Sent timestamp: 184673.658379300
+Calculated latency: 900 ns
+Sender timestamp: 184673.658530500
+Sent timestamp: 184673.658531100
+Calculated latency: 600 ns
+Sender timestamp: 184673.658678000
+Sent timestamp: 184673.658681200
+Calculated latency: 3200 ns
+Sender timestamp: 184673.658872800
+Sent timestamp: 184673.658873900
+Calculated latency: 1100 ns
+Sender timestamp: 184673.659082300
+Sent timestamp: 184673.659094000
+Calculated latency: 11700 ns
+Sender timestamp: 184673.659299800
+Sent timestamp: 184673.659300900
+Calculated latency: 1100 ns
+Sender timestamp: 184673.659474500
+Sent timestamp: 184673.659475200
+Calculated latency: 700 ns
+Sender timestamp: 184673.659733800
+Sent timestamp: 184673.659735200
+Calculated latency: 1400 ns
+Sender timestamp: 184673.660029500
+Sent timestamp: 184673.660040200
+Calculated latency: 10700 ns

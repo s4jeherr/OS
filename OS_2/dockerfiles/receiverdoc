@@ -1,0 +1,9 @@
+FROM gcc:latest
+RUN apt-get update && apt-get install -y libzmq3-dev
+COPY src/os2-4-receiver.c /app/src/
+RUN mkdir -p /app/build
+WORKDIR /app
+RUN gcc -o build/os2-4-receiver.exe src/os2-4-receiver.c -lzmq -lm
+RUN chmod +x build/os2-4-receiver.exe
+RUN ls -l /app/build/
+CMD ["./build/os2-4-receiver.exe"]
