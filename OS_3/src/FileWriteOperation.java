@@ -16,10 +16,16 @@ public class FileWriteOperation implements FileOperation {
     }
 
     private String hashFileContent(Path path) throws IOException, NoSuchAlgorithmException {
+        if (!Files.exists(path)) {
+            System.out.println("File does not exist yet: " + path);
+            return "EMPTY_FILE_HASH";
+        }
+        System.out.println("Hashing file: " + path);
         byte[] content = Files.readAllBytes(path);
         MessageDigest digest = MessageDigest.getInstance("SHA-256");
         return bytesToHex(digest.digest(content));
     }
+
 
     private String bytesToHex(byte[] bytes) {
         StringBuilder hexString = new StringBuilder();

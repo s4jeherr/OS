@@ -15,8 +15,4 @@ public class FileRenameOperation implements FileOperation {
         Files.move(oldPath, newPath, StandardCopyOption.REPLACE_EXISTING);
     }
 
-    @Override
-    public void rollback() throws IOException {
-        Files.move(newPath, oldPath, StandardCopyOption.REPLACE_EXISTING);
-    }
 }

@@ -5,27 +5,34 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FileTransaction {
-    private final List<FileWriteOperation> operations = new ArrayList<>();
+    private final List<FileOperation> operations = new ArrayList<>();
     private final ZFSSnapshotManager snapshotManager;
     private final String snapshotName;
     private boolean committed = false;
 
     public FileTransaction(ZFSSnapshotManager snapshotManager, String transactionId) throws IOException, InterruptedException {
         this.snapshotManager = snapshotManager;
-        this.snapshotName = "txn_snapshot_" + transactionId;
-        snapshotManager.createSnapshot(snapshotName);
+        // Replace spaces in transaction ID to avoid issues with ZFS snapshot names
+        this.snapshotName = "txn_snapshot_" + transactionId.replaceAll("\\s+", "_");
+
+        try {
+            snapshotManager.createSnapshot(snapshotName);
+        } catch (IOException e) {
+            System.err.println("Warning: Failed to create snapshot. Proceeding without snapshot.");
+            // If snapshot creation fails, do not assign a value to snapshotName
+        }
     }
 
-    public void addOperation(FileWriteOperation operation) {
+    public void addOperation(FileOperation operation) {
         operations.add(operation);
     }
 
     public void commit() throws IOException, NoSuchAlgorithmException {
         try {
-            for (FileWriteOperation op : operations) {
+            for (FileOperation op : operations) {
                 op.apply(); // Apply changes only if no conflicts
             }
-            snapshotManager.deleteSnapshot(snapshotName);
+            snapshotManager.deleteSnapshot(snapshotName); // Delete the snapshot after commit
             committed = true;
             System.out.println("Transaction committed successfully.");
         } catch (IOException | InterruptedException e) {
@@ -35,13 +42,14 @@ public class FileTransaction {
     }
 
     public void rollback() {
-        if (!committed) {
+        if (!committed && snapshotName != null) {
             try {
                 snapshotManager.rollbackSnapshot(snapshotName);
-                System.out.println("Transaction rolled back to snapshot: " + snapshotName);
+                System.out.println("Transaction rolled back.");
             } catch (IOException | InterruptedException e) {
                 System.err.println("Snapshot rollback failed: " + e.getMessage());
             }
         }
     }
 }
+
