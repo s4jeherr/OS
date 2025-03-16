@@ -1,6 +1,6 @@
 import java.io.IOException;
+import java.security.NoSuchAlgorithmException;
 
 public interface FileOperation {
-    void apply() throws IOException;   // Execute the operation
-    void rollback() throws IOException; // Undo the operation
+    void apply() throws IOException, NoSuchAlgorithmException;   // Execute the operation
 }
