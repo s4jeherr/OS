@@ -32,12 +32,12 @@ public class FileTransaction {
             for (FileOperation op : operations) {
                 op.apply(); // Apply changes only if no conflicts
             }
-            snapshotManager.deleteSnapshot(snapshotName); // Delete the snapshot after commit
+            snapshotManager.deleteSnapshot(snapshotName); // Delete snapshot after commit
             committed = true;
-            System.out.println("Transaction committed successfully.");
         } catch (IOException | InterruptedException e) {
             System.err.println("Transaction aborted due to conflict: " + e.getMessage());
             rollback(); // Restore from snapshot
+            throw new IOException("Conflict detected! Aborting transaction.", e); // 🔴 Now throws exception
         }
     }
 

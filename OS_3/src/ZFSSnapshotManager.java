@@ -8,18 +8,30 @@ public class ZFSSnapshotManager {
     }
 
     public void createSnapshot(String snapshotName) throws IOException, InterruptedException {
-        executeCommand("zfs snapshot " + dataset + "@" + snapshotName);
-        System.out.println("Created snapshot: " + dataset + "@" + snapshotName);
+        try {
+            executeCommand("zfs snapshot " + dataset + "@" + snapshotName);
+            System.out.println("Created snapshot: " + dataset + "@" + snapshotName);
+        } catch (IOException e) {
+            throw new IOException("Failed to create snapshot: " + snapshotName, e); // 🔴 Propagate failure
+        }
     }
 
     public void rollbackSnapshot(String snapshotName) throws IOException, InterruptedException {
-        executeCommand("zfs rollback " + dataset + "@" + snapshotName);
-        System.out.println("Rolled back to snapshot: " + dataset + "@" + snapshotName);
+        try {
+            executeCommand("zfs rollback " + dataset + "@" + snapshotName);
+            System.out.println("Rolled back to snapshot: " + dataset + "@" + snapshotName);
+        } catch (IOException e) {
+            throw new IOException("Failed to rollback snapshot: " + snapshotName, e); // 🔴 Stop execution
+        }
     }
 
     public void deleteSnapshot(String snapshotName) throws IOException, InterruptedException {
-        executeCommand("zfs destroy " + dataset + "@" + snapshotName);
-        System.out.println("Deleted snapshot: " + dataset + "@" + snapshotName);
+        try {
+            executeCommand("zfs destroy " + dataset + "@" + snapshotName);
+            System.out.println("Deleted snapshot: " + dataset + "@" + snapshotName);
+        } catch (IOException e) {
+            throw new IOException("Failed to delete snapshot: " + snapshotName, e); // 🔴 Ensure errors propagate
+        }
     }
 
     private void executeCommand(String command) throws IOException, InterruptedException {

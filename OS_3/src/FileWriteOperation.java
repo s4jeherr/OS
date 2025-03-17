@@ -20,7 +20,7 @@ public class FileWriteOperation implements FileOperation {
             System.out.println("File does not exist yet: " + path);
             return "EMPTY_FILE_HASH";
         }
-        System.out.println("Hashing file: " + path);
+        //System.out.println("Hashing file: " + path);
         byte[] content = Files.readAllBytes(path);
         MessageDigest digest = MessageDigest.getInstance("SHA-256");
         return bytesToHex(digest.digest(content));
@@ -41,7 +41,7 @@ public class FileWriteOperation implements FileOperation {
 
         // Before writing, check if the file has changed
         if (metadata.hasChanged()) {
-            throw new IOException("Conflict detected! File was modified externally. Aborting transaction.");
+            throw new IOException("Conflict detected! Aborting transaction.");
         }
 
         // Proceed with writing changes
